@@ -1,0 +1,4585 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-144118' action='modify' lat='0.0577' lon='0.0288' />
+  <node id='-144119' action='modify' lat='0.0576' lon='0.0288' />
+  <node id='-144120' action='modify' lat='0.05434' lon='0.03237' />
+  <node id='-144121' action='modify' lat='0.05565' lon='0.03108' />
+  <node id='-144122' action='modify' lat='0.05569' lon='0.03103' />
+  <node id='-144123' action='modify' lat='0.05598' lon='0.03074' />
+  <node id='-144124' action='modify' lat='0.05723' lon='0.02949' />
+  <node id='-144125' action='modify' lat='0.05927' lon='0.02744' />
+  <node id='-144126' action='modify' lat='0.06052' lon='0.0262' />
+  <node id='-144127' action='modify' lat='0.05602' lon='0.03078' />
+  <node id='-144128' action='modify' lat='0.05727' lon='0.02953' />
+  <node id='-144129' action='modify' lat='0.05598' lon='0.03082' />
+  <node id='-144130' action='modify' lat='0.05589' lon='0.0309' />
+  <node id='-144131' action='modify' lat='0.05578' lon='0.03096' />
+  <node id='-144132' action='modify' lat='0.05932' lon='0.02748' />
+  <node id='-144133' action='modify' lat='0.06056' lon='0.02624' />
+  <node id='-144134' action='modify' lat='0.05551' lon='0.03128' />
+  <node id='-144135' action='modify' lat='0.05607' lon='0.03184' />
+  <node id='-144136' action='modify' lat='0.05239' lon='0.03552' />
+  <node id='-144137' action='modify' lat='0.05183' lon='0.03496' />
+  <node id='-144138' action='modify' lat='0.05432' lon='0.03233' />
+  <node id='-144139' action='modify' lat='0.0529' lon='0.03092' />
+  <node id='-144140' action='modify' lat='0.05368' lon='0.03014' />
+  <node id='-144141' action='modify' lat='0.05509' lon='0.03155' />
+  <node id='-144142' action='modify' lat='0.05597' lon='0.03072' />
+  <node id='-144143' action='modify' lat='0.05594' lon='0.03069' />
+  <node id='-144144' action='modify' lat='0.05718' lon='0.02945' />
+  <node id='-144145' action='modify' lat='0.05721' lon='0.02948' />
+  <node id='-144146' action='modify' lat='0.05604' lon='0.03079' />
+  <node id='-144147' action='modify' lat='0.05607' lon='0.03082' />
+  <node id='-144148' action='modify' lat='0.05732' lon='0.02958' />
+  <node id='-144149' action='modify' lat='0.05728' lon='0.02955' />
+  <node id='-144150' action='modify' lat='0.05926' lon='0.02743' />
+  <node id='-144151' action='modify' lat='0.05923' lon='0.02739' />
+  <node id='-144152' action='modify' lat='0.06048' lon='0.02615' />
+  <node id='-144153' action='modify' lat='0.06051' lon='0.02618' />
+  <node id='-144154' action='modify' lat='0.06058' lon='0.02625' />
+  <node id='-144155' action='modify' lat='0.06061' lon='0.02628' />
+  <node id='-144156' action='modify' lat='0.05937' lon='0.02753' />
+  <node id='-144157' action='modify' lat='0.05933' lon='0.0275' />
+  <node id='-144158' action='modify' lat='0.0599' lon='0.02681'>
+    <tag k='name' v='三条マンション1番乗り場' />
+    <tag k='operator' v='鉄街鉄道' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144159' action='modify' lat='0.05994' lon='0.02686'>
+    <tag k='name' v='三条マンション2番乗り場' />
+    <tag k='operator' v='鉄街鉄道' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144160' action='modify' lat='0.0566' lon='0.03011'>
+    <tag k='name' v='三条団地1番乗り場' />
+    <tag k='operator' v='鉄街鉄道' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144161' action='modify' lat='0.05665' lon='0.03016'>
+    <tag k='name' v='三条団地2番乗り場' />
+    <tag k='operator' v='鉄街鉄道' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144162' action='modify' lat='0.06054' lon='0.02618' />
+  <node id='-144163' action='modify' lat='0.0613' lon='0.02542' />
+  <node id='-144164' action='modify' lat='0.06271' lon='0.024' />
+  <node id='-144165' action='modify' lat='0.0629' lon='0.02382' />
+  <node id='-144166' action='modify' lat='0.06454' lon='0.02218' />
+  <node id='-144167' action='modify' lat='0.06547' lon='0.022' />
+  <node id='-144168' action='modify' lat='0.06608' lon='0.02187' />
+  <node id='-144169' action='modify' lat='0.06615' lon='0.02179' />
+  <node id='-144170' action='modify' lat='0.06614' lon='0.02102' />
+  <node id='-144171' action='modify' lat='0.06607' lon='0.02095' />
+  <node id='-144172' action='modify' lat='0.06447' lon='0.01935' />
+  <node id='-144173' action='modify' lat='0.06322' lon='0.01811' />
+  <node id='-144174' action='modify' lat='0.06292' lon='0.0178' />
+  <node id='-144175' action='modify' lat='0.06221' lon='0.01734' />
+  <node id='-144176' action='modify' lat='0.06186' lon='0.01719' />
+  <node id='-144177' action='modify' lat='0.06156' lon='0.01705' />
+  <node id='-144178' action='modify' lat='0.0613' lon='0.01694' />
+  <node id='-144179' action='modify' lat='0.06059' lon='0.01646' />
+  <node id='-144180' action='modify' lat='0.05648' lon='0.01235' />
+  <node id='-144181' action='modify' lat='0.05592' lon='0.01212' />
+  <node id='-144182' action='modify' lat='0.05577' lon='0.01213' />
+  <node id='-144183' action='modify' lat='0.05522' lon='0.01189' />
+  <node id='-144184' action='modify' lat='0.0545' lon='0.01117' />
+  <node id='-144185' action='modify' lat='0.06147' lon='0.02685'>
+    <tag k='name' v='三条マンション3番乗り場' />
+    <tag k='operator' v='郊外団地鉄道' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144186' action='modify' lat='0.06241' lon='0.02779' />
+  <node id='-144187' action='modify' lat='0.06298' lon='0.02837' />
+  <node id='-144188' action='modify' lat='0.06313' lon='0.02851' />
+  <node id='-144189' action='modify' lat='0.0632' lon='0.02858' />
+  <node id='-144190' action='modify' lat='0.06376' lon='0.02915' />
+  <node id='-144191' action='modify' lat='0.06409' lon='0.02947' />
+  <node id='-144192' action='modify' lat='0.0644' lon='0.02978' />
+  <node id='-144193' action='modify' lat='0.06692' lon='0.0323' />
+  <node id='-144194' action='modify' lat='0.06777' lon='0.03315' />
+  <node id='-144195' action='modify' lat='0.06775' lon='0.03316' />
+  <node id='-144196' action='modify' lat='0.06772' lon='0.03319' />
+  <node id='-144197' action='modify' lat='0.06687' lon='0.03234' />
+  <node id='-144198' action='modify' lat='0.06691' lon='0.03231' />
+  <node id='-144199' action='modify' lat='0.06275693029' lon='0.02814301679' />
+  <node id='-144200' action='modify' lat='0.06266' lon='0.02807' />
+  <node id='-144201' action='modify' lat='0.06256' lon='0.028' />
+  <node id='-144202' action='modify' lat='0.06246' lon='0.02793' />
+  <node id='-144203' action='modify' lat='0.06236' lon='0.02783' />
+  <node id='-144204' action='modify' lat='0.06142' lon='0.02689'>
+    <tag k='name' v='三条マンション4番乗り場' />
+    <tag k='operator' v='郊外団地鉄道' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144205' action='modify' lat='0.06257' lon='0.02825' />
+  <node id='-144206' action='modify' lat='0.06143' lon='0.02712' />
+  <node id='-144207' action='modify' lat='0.05946' lon='0.02909' />
+  <node id='-144208' action='modify' lat='0.0588' lon='0.02924' />
+  <node id='-144209' action='modify' lat='0.05844' lon='0.0291' />
+  <node id='-144210' action='modify' lat='0.05826' lon='0.02898' />
+  <node id='-144211' action='modify' lat='0.05777' lon='0.02848' />
+  <node id='-144212' action='modify' lat='0.05719' lon='0.02839' />
+  <node id='-144213' action='modify' lat='0.05677' lon='0.0284' />
+  <node id='-144214' action='modify' lat='0.0549' lon='0.02763' />
+  <node id='-144215' action='modify' lat='0.05468' lon='0.02817' />
+  <node id='-144216' action='modify' lat='0.05735' lon='0.02172' />
+  <node id='-144217' action='modify' lat='0.06242' lon='0.02777' />
+  <node id='-144218' action='modify' lat='0.06245' lon='0.02774' />
+  <node id='-144219' action='modify' lat='0.06146' lon='0.02682' />
+  <node id='-144220' action='modify' lat='0.06139' lon='0.02688' />
+  <node id='-144221' action='modify' lat='0.06235' lon='0.02784' />
+  <node id='-144222' action='modify' lat='0.06232' lon='0.02788' />
+  <node id='-144223' action='modify' lat='0.0613' lon='0.02686' />
+  <node id='-144224' action='modify' lat='0.06143' lon='0.02672' />
+  <node id='-144225' action='modify' lat='0.05463' lon='0.02827' />
+  <node id='-144226' action='modify' lat='0.05369' lon='0.02788' />
+  <node id='-144227' action='modify' lat='0.05304' lon='0.02945' />
+  <node id='-144228' action='modify' lat='0.0558' lon='0.0306' />
+  <node id='-144229' action='modify' lat='0.05142' lon='0.02879' />
+  <node id='-144230' action='modify' lat='0.06741' lon='0.03279'>
+    <tag k='name' v='KD2' />
+    <tag k='operator' v='郊外団地鉄道' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144231' action='modify' lat='0.06058' lon='0.02797' />
+  <node id='-144232' action='modify' lat='0.0625' lon='0.02989' />
+  <node id='-144233' action='modify' lat='0.06317' lon='0.03056' />
+  <node id='-144234' action='modify' lat='0.06332' lon='0.03071' />
+  <node id='-144235' action='modify' lat='0.06354' lon='0.03086' />
+  <node id='-144236' action='modify' lat='0.06384' lon='0.03104' />
+  <node id='-144237' action='modify' lat='0.06445' lon='0.03165' />
+  <node id='-144238' action='modify' lat='0.06509' lon='0.03229' />
+  <node id='-144239' action='modify' lat='0.06524' lon='0.03245' />
+  <node id='-144240' action='modify' lat='0.06992' lon='0.03712' />
+  <node id='-144241' action='modify' lat='0.07061' lon='0.03745' />
+  <node id='-144242' action='modify' lat='0.07157' lon='0.03712' />
+  <node id='-144243' action='modify' lat='0.07282' lon='0.03587' />
+  <node id='-144244' action='modify' lat='0.07329' lon='0.03557' />
+  <node id='-144245' action='modify' lat='0.07369' lon='0.03531' />
+  <node id='-144246' action='modify' lat='0.07526' lon='0.03374' />
+  <node id='-144247' action='modify' lat='0.07609' lon='0.03457' />
+  <node id='-144248' action='modify' lat='0.07645' lon='0.03482' />
+  <node id='-144249' action='modify' lat='0.0767' lon='0.03496' />
+  <node id='-144250' action='modify' lat='0.07766' lon='0.03591' />
+  <node id='-144251' action='modify' lat='0.07778' lon='0.03663' />
+  <node id='-144252' action='modify' lat='0.07789' lon='0.03717' />
+  <node id='-144253' action='modify' lat='0.08087' lon='0.04016' />
+  <node id='-144254' action='modify' lat='0.06578058765' lon='0.03298943252' />
+  <node id='-144255' action='modify' lat='0.06763' lon='0.03113' />
+  <node id='-144256' action='modify' lat='0.06832' lon='0.0308' />
+  <node id='-144257' action='modify' lat='0.06887' lon='0.03087' />
+  <node id='-144258' action='modify' lat='0.07381' lon='0.03291' />
+  <node id='-144259' action='modify' lat='0.07414' lon='0.03314' />
+  <node id='-144260' action='modify' lat='0.07501' lon='0.03399' />
+  <node id='-144261' action='modify' lat='0.06996' lon='0.03534' />
+  <node id='-144262' action='modify' lat='0.07031' lon='0.03558' />
+  <node id='-144263' action='modify' lat='0.07121' lon='0.03595' />
+  <node id='-144264' action='modify' lat='0.07156' lon='0.03619' />
+  <node id='-144265' action='modify' lat='0.07223' lon='0.03686' />
+  <node id='-144266' action='modify' lat='0.07266' lon='0.03704' />
+  <node id='-144267' action='modify' lat='0.07309' lon='0.03686' />
+  <node id='-144268' action='modify' lat='0.0739' lon='0.03605' />
+  <node id='-144269' action='modify' lat='0.07462' lon='0.03533' />
+  <node id='-144270' action='modify' lat='0.07494' lon='0.03501' />
+  <node id='-144271' action='modify' lat='0.0759' lon='0.03405' />
+  <node id='-144272' action='modify' lat='0.07995' lon='0.03' />
+  <node id='-144273' action='modify' lat='0.08028' lon='0.02923' />
+  <node id='-144274' action='modify' lat='0.07995' lon='0.02846' />
+  <node id='-144275' action='modify' lat='0.07884' lon='0.02733' />
+  <node id='-144276' action='modify' lat='0.06058' lon='0.02622' />
+  <node id='-144277' action='modify' lat='0.06133' lon='0.02547' />
+  <node id='-144278' action='modify' lat='0.0629' lon='0.0239' />
+  <node id='-144279' action='modify' lat='0.06443' lon='0.02237' />
+  <node id='-144280' action='modify' lat='0.06525' lon='0.02222' />
+  <node id='-144281' action='modify' lat='0.06601' lon='0.02205' />
+  <node id='-144282' action='modify' lat='0.06579' lon='0.0222' />
+  <node id='-144283' action='modify' lat='0.06485' lon='0.02216' />
+  <node id='-144284' action='modify' lat='0.06502' lon='0.02194' />
+  <node id='-144285' action='modify' lat='0.06581' lon='0.02202' />
+  <node id='-144286' action='modify' lat='0.06621' lon='0.02185' />
+  <node id='-144287' action='modify' lat='0.06638' lon='0.0215' />
+  <node id='-144288' action='modify' lat='0.06621' lon='0.02101' />
+  <node id='-144289' action='modify' lat='0.06611' lon='0.02091' />
+  <node id='-144290' action='modify' lat='0.06631' lon='0.02144' />
+  <node id='-144291' action='modify' lat='0.06451' lon='0.01931' />
+  <node id='-144292' action='modify' lat='0.06327' lon='0.01806' />
+  <node id='-144293' action='modify' lat='0.06295' lon='0.01775' />
+  <node id='-144294' action='modify' lat='0.06225' lon='0.01728' />
+  <node id='-144295' action='modify' lat='0.06188' lon='0.01713' />
+  <node id='-144296' action='modify' lat='0.06159' lon='0.01699' />
+  <node id='-144297' action='modify' lat='0.06132' lon='0.01688' />
+  <node id='-144298' action='modify' lat='0.06063' lon='0.01643' />
+  <node id='-144299' action='modify' lat='0.05594' lon='0.01173' />
+  <node id='-144300' action='modify' lat='0.0556' lon='0.0115' />
+  <node id='-144301' action='modify' lat='0.05513' lon='0.01131' />
+  <node id='-144302' action='modify' lat='0.05492' lon='0.01117' />
+  <node id='-144303' action='modify' lat='0.05485' lon='0.01111' />
+  <node id='-144304' action='modify' lat='0.05414' lon='0.0104' />
+  <node id='-144305' action='modify' lat='0.07463' lon='0.03532' />
+  <node id='-144306' action='modify' lat='0.07473' lon='0.03524' />
+  <node id='-144307' action='modify' lat='0.07483' lon='0.03518' />
+  <node id='-144308' action='modify' lat='0.07493' lon='0.03511' />
+  <node id='-144309' action='modify' lat='0.07498' lon='0.03505' />
+  <node id='-144310' action='modify' lat='0.07595' lon='0.03409' />
+  <node id='-144311' action='modify' lat='0.08008' lon='0.02995' />
+  <node id='-144312' action='modify' lat='0.0804' lon='0.02919' />
+  <node id='-144313' action='modify' lat='0.08008' lon='0.02841' />
+  <node id='-144314' action='modify' lat='0.07892' lon='0.02726' />
+  <node id='-144315' action='modify' lat='0.07795' lon='0.02629' />
+  <node id='-144316' action='modify' lat='0.07789' lon='0.02636' />
+  <node id='-144317' action='modify' lat='0.07794' lon='0.0263' />
+  <node id='-144318' action='modify' lat='0.07885' lon='0.02732' />
+  <node id='-144319' action='modify' lat='0.0789' lon='0.02726' />
+  <node id='-144320' action='modify' lat='0.07787' lon='0.02637' />
+  <node id='-144321' action='modify' lat='0.07851' lon='0.02684'>
+    <tag k='name' v='北郊外団地2番乗り場' />
+    <tag k='operator' v='郊外団地鉄道' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144322' action='modify' lat='0.07842' lon='0.02693'>
+    <tag k='name' v='北郊外団地1番乗り場' />
+    <tag k='operator' v='郊外団地鉄道' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144323' action='modify' lat='0.07493' lon='0.035' />
+  <node id='-144324' action='modify' lat='0.0749' lon='0.03496' />
+  <node id='-144325' action='modify' lat='0.07589' lon='0.03403' />
+  <node id='-144326' action='modify' lat='0.07586' lon='0.034' />
+  <node id='-144327' action='modify' lat='0.07595' lon='0.03411' />
+  <node id='-144328' action='modify' lat='0.07599' lon='0.03414' />
+  <node id='-144329' action='modify' lat='0.07503' lon='0.0351' />
+  <node id='-144330' action='modify' lat='0.075' lon='0.03507' />
+  <node id='-144331' action='modify' lat='0.07553' lon='0.0345'>
+    <tag k='name' v='郊外団地6番乗り場' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144332' action='modify' lat='0.07549' lon='0.03446'>
+    <tag k='name' v='郊外団地5番乗り場' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144333' action='modify' lat='0.07958824353' lon='0.02809172539' />
+  <node id='-144334' action='modify' lat='0.07947' lon='0.02793' />
+  <node id='-144335' action='modify' lat='0.07943' lon='0.02782' />
+  <node id='-144336' action='modify' lat='0.07932676737' lon='0.02766326075' />
+  <node id='-144337' action='modify' lat='0.07975862074' lon='0.02809139125' />
+  <node id='-144338' action='modify' lat='0.07971' lon='0.02803' />
+  <node id='-144339' action='modify' lat='0.07967' lon='0.02794' />
+  <node id='-144340' action='modify' lat='0.07962' lon='0.02787' />
+  <node id='-144341' action='modify' lat='0.07896' lon='0.02721' />
+  <node id='-144342' action='modify' lat='0.078' lon='0.02625' />
+  <node id='-144343' action='modify' lat='0.07902' lon='0.02727' />
+  <node id='-144344' action='modify' lat='0.07909' lon='0.02736' />
+  <node id='-144345' action='modify' lat='0.07915' lon='0.02747' />
+  <node id='-144346' action='modify' lat='0.07922633635' lon='0.02756369552' />
+  <node id='-144347' action='modify' lat='0.07967' lon='0.02794' />
+  <node id='-144348' action='modify' lat='0.0795' lon='0.02759' />
+  <node id='-144349' action='modify' lat='0.07946' lon='0.02754' />
+  <node id='-144350' action='modify' lat='0.07904' lon='0.02712' />
+  <node id='-144351' action='modify' lat='0.07808' lon='0.02616' />
+  <node id='-144352' action='modify' lat='0.07801' lon='0.02623' />
+  <node id='-144353' action='modify' lat='0.07807' lon='0.02618' />
+  <node id='-144354' action='modify' lat='0.07903' lon='0.02714' />
+  <node id='-144355' action='modify' lat='0.07897' lon='0.02719' />
+  <node id='-144356' action='modify' lat='0.07855' lon='0.0268'>
+    <tag k='name' v='北郊外団地3番乗り場' />
+    <tag k='operator' v='郊外団地鉄道' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144357' action='modify' lat='0.07864' lon='0.02671'>
+    <tag k='name' v='北郊外団地4番乗り場' />
+    <tag k='operator' v='郊外団地鉄道' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144358' action='modify' lat='0.07627' lon='0.02477' />
+  <node id='-144359' action='modify' lat='0.07617' lon='0.02462' />
+  <node id='-144360' action='modify' lat='0.07613' lon='0.02451' />
+  <node id='-144361' action='modify' lat='0.07602' lon='0.02435' />
+  <node id='-144362' action='modify' lat='0.07519' lon='0.02352' />
+  <node id='-144363' action='modify' lat='0.07495' lon='0.02316' />
+  <node id='-144364' action='modify' lat='0.07487' lon='0.02296' />
+  <node id='-144365' action='modify' lat='0.07463' lon='0.02261' />
+  <node id='-144366' action='modify' lat='0.0746' lon='0.02259' />
+  <node id='-144367' action='modify' lat='0.075765' lon='0.02409499999' />
+  <node id='-144368' action='modify' lat='0.07602' lon='0.02427' />
+  <node id='-144369' action='modify' lat='0.07612' lon='0.02432' />
+  <node id='-144370' action='modify' lat='0.07647' lon='0.02455' />
+  <node id='-144371' action='modify' lat='0.072445' lon='0.03624500001' />
+  <node id='-144372' action='modify' lat='0.06611' lon='0.02991' />
+  <node id='-144373' action='modify' lat='0.06569' lon='0.02913' />
+  <node id='-144374' action='modify' lat='0.06574' lon='0.02867' />
+  <node id='-144375' action='modify' lat='0.0669' lon='0.02585' />
+  <node id='-144376' action='modify' lat='0.05281' lon='0.03207' />
+  <node id='-144377' action='modify' lat='0.05338' lon='0.0315' />
+  <node id='-144378' action='modify' lat='0.05429' lon='0.03242' />
+  <node id='-144379' action='modify' lat='0.05373' lon='0.03298' />
+  <node id='-144380' action='modify' lat='0.05223' lon='0.03266' />
+  <node id='-144381' action='modify' lat='0.0528' lon='0.03209' />
+  <node id='-144382' action='modify' lat='0.05364' lon='0.03294' />
+  <node id='-144383' action='modify' lat='0.05308' lon='0.0335' />
+  <node id='-144384' action='modify' lat='0.06265' lon='0.01938' />
+  <node id='-144385' action='modify' lat='0.06022' lon='0.02523' />
+  <node id='-144386' action='modify' lat='0.06643' lon='0.03022999998' />
+  <node id='-144387' action='modify' lat='0.06576' lon='0.0309' />
+  <node id='-144388' action='modify' lat='0.06492' lon='0.03006' />
+  <node id='-144389' action='modify' lat='0.0647' lon='0.02971' />
+  <node id='-144390' action='modify' lat='0.06466' lon='0.0295' />
+  <node id='-144391' action='modify' lat='0.06466' lon='0.02919' />
+  <node id='-144392' action='modify' lat='0.06459' lon='0.02894' />
+  <node id='-144393' action='modify' lat='0.06428' lon='0.02864' />
+  <node id='-144394' action='modify' lat='0.06386' lon='0.02846' />
+  <node id='-144395' action='modify' lat='0.06367' lon='0.0283' />
+  <node id='-144396' action='modify' lat='0.06359' lon='0.02791' />
+  <node id='-144397' action='modify' lat='0.06368' lon='0.02765' />
+  <node id='-144398' action='modify' lat='0.06368' lon='0.02743' />
+  <node id='-144399' action='modify' lat='0.06351' lon='0.02713' />
+  <node id='-144400' action='modify' lat='0.06185' lon='0.02547' />
+  <node id='-144401' action='modify' lat='0.06235' lon='0.02498' />
+  <node id='-144402' action='modify' lat='0.06192' lon='0.02455' />
+  <node id='-144403' action='modify' lat='0.0617' lon='0.02439' />
+  <node id='-144404' action='modify' lat='0.06073580138' lon='0.02398825596' />
+  <node id='-144405' action='modify' lat='0.07617' lon='0.03483' />
+  <node id='-144406' action='modify' lat='0.0756' lon='0.03538' />
+  <node id='-144407' action='modify' lat='0.07519' lon='0.03497' />
+  <node id='-144408' action='modify' lat='0.07574' lon='0.03441' />
+  <node id='-144409' action='modify' lat='0.06445' lon='0.01936' />
+  <node id='-144410' action='modify' lat='0.06442' lon='0.0194' />
+  <node id='-144411' action='modify' lat='0.06318' lon='0.01815' />
+  <node id='-144412' action='modify' lat='0.06321' lon='0.01812' />
+  <node id='-144413' action='modify' lat='0.06328' lon='0.01805' />
+  <node id='-144414' action='modify' lat='0.06331' lon='0.01802' />
+  <node id='-144415' action='modify' lat='0.06456' lon='0.01926' />
+  <node id='-144416' action='modify' lat='0.06452' lon='0.01929' />
+  <node id='-144417' action='modify' lat='0.06382' lon='0.01861'>
+    <tag k='name' v='三条1番乗り場' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144418' action='modify' lat='0.06377' lon='0.01865'>
+    <tag k='name' v='三条2番乗り場' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='train' v='yes' />
+  </node>
+  <node id='-144419' action='modify' lat='0.06194' lon='0.01655' />
+  <node id='-144420' action='modify' lat='0.06582' lon='0.02044' />
+  <node id='-144421' action='modify' lat='0.08944' lon='0.09696' />
+  <node id='-144422' action='modify' lat='0.0893' lon='0.0971' />
+  <node id='-144423' action='modify' lat='0.08902' lon='0.09682' />
+  <node id='-144424' action='modify' lat='0.08916' lon='0.09668' />
+  <node id='-144425' action='modify' lat='0.08966' lon='0.09631' />
+  <node id='-144426' action='modify' lat='0.08929' lon='0.09647' />
+  <node id='-144427' action='modify' lat='0.08914' lon='0.0961' />
+  <node id='-144428' action='modify' lat='0.0895' lon='0.09595' />
+  <node id='-144429' action='modify' lat='0.08784' lon='0.09667' />
+  <node id='-144430' action='modify' lat='0.08741' lon='0.09709' />
+  <node id='-144431' action='modify' lat='0.08798' lon='0.09766' />
+  <node id='-144432' action='modify' lat='0.0884' lon='0.09723' />
+  <node id='-144433' action='modify' lat='0.09059' lon='0.09888' />
+  <node id='-144434' action='modify' lat='0.08947' lon='0.0995' />
+  <node id='-144435' action='modify' lat='0.08986' lon='0.09857' />
+  <node id='-144436' action='modify' lat='0.09021' lon='0.0998' />
+  <node id='-144437' action='modify' lat='0.09014' lon='0.09095' />
+  <node id='-144438' action='modify' lat='0.08822' lon='0.09559' />
+  <node id='-144439' action='modify' lat='0.08819' lon='0.09576' />
+  <node id='-144440' action='modify' lat='0.08825' lon='0.0961' />
+  <node id='-144441' action='modify' lat='0.08844' lon='0.09633' />
+  <node id='-144442' action='modify' lat='0.08929' lon='0.09717' />
+  <node id='-144443' action='modify' lat='0.08517' lon='0.09609' />
+  <node id='-144444' action='modify' lat='0.08572' lon='0.09586' />
+  <node id='-144445' action='modify' lat='0.08588' lon='0.09623' />
+  <node id='-144446' action='modify' lat='0.08532' lon='0.09646' />
+  <node id='-144447' action='modify' lat='0.08753' lon='0.09806' />
+  <node id='-144448' action='modify' lat='0.08697' lon='0.09749' />
+  <node id='-144449' action='modify' lat='0.08739' lon='0.09707' />
+  <node id='-144450' action='modify' lat='0.08795' lon='0.09764' />
+  <node id='-144451' action='modify' lat='0.06474' lon='0.07751' />
+  <node id='-144452' action='modify' lat='0.06502' lon='0.07723' />
+  <node id='-144453' action='modify' lat='0.0653' lon='0.07751' />
+  <node id='-144454' action='modify' lat='0.06502' lon='0.07779' />
+  <node id='-144455' action='modify' lat='0.07347' lon='0.08206' />
+  <node id='-144456' action='modify' lat='0.07373' lon='0.0818' />
+  <node id='-144457' action='modify' lat='0.07359' lon='0.08166' />
+  <node id='-144458' action='modify' lat='0.07331' lon='0.08194' />
+  <node id='-144459' action='modify' lat='0.08573' lon='0.0936' />
+  <node id='-144460' action='modify' lat='0.08951' lon='0.08982' />
+  <node id='-144461' action='modify' lat='0.08861000002' lon='0.09072000002' />
+  <node id='-144462' action='modify' lat='0.08897' lon='0.09107' />
+  <node id='-144463' action='modify' lat='0.08925' lon='0.09127' />
+  <node id='-144464' action='modify' lat='0.08989500508' lon='0.09154207107' />
+  <node id='-144465' action='modify' lat='0.07415' lon='0.02213' />
+  <node id='-144466' action='modify' lat='0.07372' lon='0.02195' />
+  <node id='-144467' action='modify' lat='0.07355' lon='0.02198' />
+  <node id='-144468' action='modify' lat='0.07339' lon='0.02206' />
+  <node id='-144469' action='modify' lat='0.0733' lon='0.02213' />
+  <node id='-144470' action='modify' lat='0.07325' lon='0.02219' />
+  <node id='-144471' action='modify' lat='0.07315' lon='0.02227' />
+  <node id='-144472' action='modify' lat='0.07297' lon='0.02235' />
+  <node id='-144473' action='modify' lat='0.07271' lon='0.02238' />
+  <node id='-144474' action='modify' lat='0.07252' lon='0.02233' />
+  <node id='-144475' action='modify' lat='0.07236' lon='0.02223' />
+  <node id='-144476' action='modify' lat='0.07231' lon='0.02219' />
+  <node id='-144477' action='modify' lat='0.07173' lon='0.02161' />
+  <node id='-144478' action='modify' lat='0.06779' lon='0.01767' />
+  <node id='-144479' action='modify' lat='0.06769' lon='0.01756' />
+  <node id='-144480' action='modify' lat='0.0676' lon='0.0175' />
+  <node id='-144481' action='modify' lat='0.06751' lon='0.01745' />
+  <node id='-144482' action='modify' lat='0.06736' lon='0.01741' />
+  <node id='-144483' action='modify' lat='0.06715' lon='0.01743' />
+  <node id='-144484' action='modify' lat='0.067' lon='0.0175' />
+  <node id='-144485' action='modify' lat='0.06692' lon='0.01757' />
+  <node id='-144486' action='modify' lat='0.0668' lon='0.01769' />
+  <node id='-144487' action='modify' lat='0.06634' lon='0.01814' />
+  <node id='-144488' action='modify' lat='0.06616' lon='0.01833' />
+  <node id='-144489' action='modify' lat='0.06566' lon='0.01883' />
+  <node id='-144490' action='modify' lat='0.06552' lon='0.01894' />
+  <node id='-144491' action='modify' lat='0.06536' lon='0.01901' />
+  <node id='-144492' action='modify' lat='0.0652' lon='0.01905' />
+  <node id='-144493' action='modify' lat='0.06503' lon='0.01904' />
+  <node id='-144494' action='modify' lat='0.06492' lon='0.01902' />
+  <node id='-144495' action='modify' lat='0.06487' lon='0.01899' />
+  <node id='-144496' action='modify' lat='0.06459' lon='0.01888' />
+  <node id='-144497' action='modify' lat='0.06448' lon='0.01882' />
+  <node id='-144498' action='modify' lat='0.06439' lon='0.01875' />
+  <node id='-144499' action='modify' lat='0.0643' lon='0.01864' />
+  <node id='-144500' action='modify' lat='0.06434' lon='0.01868' />
+  <node id='-144501' action='modify' lat='0.06424' lon='0.01853' />
+  <node id='-144502' action='modify' lat='0.06421' lon='0.01842' />
+  <node id='-144503' action='modify' lat='0.0642' lon='0.0183' />
+  <node id='-144504' action='modify' lat='0.06422' lon='0.01813' />
+  <node id='-144505' action='modify' lat='0.0643' lon='0.01797' />
+  <node id='-144506' action='modify' lat='0.06438' lon='0.01788' />
+  <node id='-144507' action='modify' lat='0.06455' lon='0.01771' />
+  <node id='-144508' action='modify' lat='0.06551' lon='0.01674' />
+  <node id='-144509' action='modify' lat='0.06485267403' lon='0.01898319337' />
+  <node id='-144510' action='modify' lat='0.06472' lon='0.01891' />
+  <node id='-144511' action='modify' lat='0.06463' lon='0.01884' />
+  <node id='-144512' action='modify' lat='0.06454' lon='0.01874' />
+  <node id='-144513' action='modify' lat='0.06447' lon='0.01865' />
+  <node id='-144514' action='modify' lat='0.06442' lon='0.01855' />
+  <node id='-144515' action='modify' lat='0.06437' lon='0.01827' />
+  <node id='-144516' action='modify' lat='0.06442' lon='0.018' />
+  <node id='-144517' action='modify' lat='0.06459' lon='0.01775' />
+  <node id='-144518' action='modify' lat='0.06555' lon='0.01679' />
+  <node id='-144519' action='modify' lat='0.0656' lon='0.01674' />
+  <node id='-144520' action='modify' lat='0.06567' lon='0.01665' />
+  <node id='-144521' action='modify' lat='0.06573' lon='0.01654' />
+  <node id='-144522' action='modify' lat='0.06581' lon='0.01645' />
+  <node id='-144523' action='modify' lat='0.06595' lon='0.01631' />
+  <node id='-144524' action='modify' lat='0.0661' lon='0.01619' />
+  <node id='-144525' action='modify' lat='0.06629' lon='0.01613' />
+  <node id='-144526' action='modify' lat='0.06648' lon='0.01612' />
+  <node id='-144527' action='modify' lat='0.06673' lon='0.01619' />
+  <node id='-144528' action='modify' lat='0.06688' lon='0.0163' />
+  <node id='-144529' action='modify' lat='0.06703' lon='0.01645' />
+  <node id='-144530' action='modify' lat='0.07266' lon='0.02208' />
+  <node id='-144531' action='modify' lat='0.07299' lon='0.02242' />
+  <node id='-144532' action='modify' lat='0.07319' lon='0.02255' />
+  <node id='-144533' action='modify' lat='0.07336' lon='0.02259' />
+  <node id='-144534' action='modify' lat='0.07359' lon='0.02256' />
+  <node id='-144535' action='modify' lat='0.07375' lon='0.02249' />
+  <node id='-144536' action='modify' lat='0.07384' lon='0.02242' />
+  <node id='-144537' action='modify' lat='0.07409' lon='0.02216' />
+  <node id='-144538' action='modify' lat='0.07417' lon='0.02208' />
+  <node id='-144539' action='modify' lat='0.07437' lon='0.02179' />
+  <node id='-144540' action='modify' lat='0.07442' lon='0.02155' />
+  <node id='-144541' action='modify' lat='0.07438' lon='0.02135' />
+  <node id='-144542' action='modify' lat='0.07426' lon='0.02117' />
+  <node id='-144543' action='modify' lat='0.07409' lon='0.02105' />
+  <node id='-144544' action='modify' lat='0.07363' lon='0.02086' />
+  <node id='-144545' action='modify' lat='0.07353' lon='0.02083' />
+  <node id='-144546' action='modify' lat='0.07342' lon='0.02082' />
+  <node id='-144547' action='modify' lat='0.07276' lon='0.02082' />
+  <node id='-144548' action='modify' lat='0.07218' lon='0.02082' />
+  <node id='-144549' action='modify' lat='0.07082' lon='0.02082' />
+  <node id='-144550' action='modify' lat='0.0702' lon='0.02082' />
+  <node id='-144551' action='modify' lat='0.06996' lon='0.02086' />
+  <node id='-144552' action='modify' lat='0.06979' lon='0.02094' />
+  <node id='-144553' action='modify' lat='0.06961' lon='0.0211' />
+  <node id='-144554' action='modify' lat='0.06948' lon='0.0213' />
+  <node id='-144555' action='modify' lat='0.06942' lon='0.02154' />
+  <node id='-144556' action='modify' lat='0.06942' lon='0.02186' />
+  <node id='-144557' action='modify' lat='0.06943' lon='0.02198' />
+  <node id='-144558' action='modify' lat='0.06948' lon='0.02216' />
+  <node id='-144559' action='modify' lat='0.06957' lon='0.02232' />
+  <node id='-144560' action='modify' lat='0.06974' lon='0.02249' />
+  <node id='-144561' action='modify' lat='0.0699' lon='0.02258' />
+  <node id='-144562' action='modify' lat='0.07143' lon='0.02322' />
+  <node id='-144563' action='modify' lat='0.07179' lon='0.02336' />
+  <node id='-144564' action='modify' lat='0.07214' lon='0.02351' />
+  <node id='-144565' action='modify' lat='0.07258' lon='0.02082' />
+  <node id='-144566' action='modify' lat='0.07246' lon='0.02081' />
+  <node id='-144567' action='modify' lat='0.07234' lon='0.02077' />
+  <node id='-144568' action='modify' lat='0.07222' lon='0.02076' />
+  <node id='-144569' action='modify' lat='0.07218' lon='0.02076' />
+  <node id='-144570' action='modify' lat='0.07082' lon='0.02076' />
+  <node id='-144571' action='modify' lat='0.07072' lon='0.02076' />
+  <node id='-144572' action='modify' lat='0.0706' lon='0.02078' />
+  <node id='-144573' action='modify' lat='0.07048' lon='0.02081' />
+  <node id='-144574' action='modify' lat='0.07036' lon='0.02082' />
+  <node id='-144575' action='modify' lat='0.07295' lon='0.02385' />
+  <node id='-144576' action='modify' lat='0.0732' lon='0.0239' />
+  <node id='-144577' action='modify' lat='0.07339' lon='0.02387' />
+  <node id='-144578' action='modify' lat='0.07351' lon='0.02382' />
+  <node id='-144579' action='modify' lat='0.07367' lon='0.0237' />
+  <node id='-144580' action='modify' lat='0.07473' lon='0.02264' />
+  <node id='-144581' action='modify' lat='0.07491' lon='0.02241' />
+  <node id='-144582' action='modify' lat='0.07497' lon='0.02228' />
+  <node id='-144583' action='modify' lat='0.07505' lon='0.02187' />
+  <node id='-144584' action='modify' lat='0.07502' lon='0.02159' />
+  <node id='-144585' action='modify' lat='0.07497' lon='0.02149' />
+  <node id='-144586' action='modify' lat='0.07479' lon='0.02116' />
+  <node id='-144587' action='modify' lat='0.07473' lon='0.0211' />
+  <node id='-144588' action='modify' lat='0.07447' lon='0.02084' />
+  <node id='-144589' action='modify' lat='0.07227' lon='0.0186' />
+  <node id='-144590' action='modify' lat='0.07213' lon='0.0185' />
+  <node id='-144591' action='modify' lat='0.07204' lon='0.01842' />
+  <node id='-144592' action='modify' lat='0.0717' lon='0.01832' />
+  <node id='-144593' action='modify' lat='0.07153' lon='0.01835' />
+  <node id='-144594' action='modify' lat='0.07142' lon='0.01839' />
+  <node id='-144595' action='modify' lat='0.07132' lon='0.01846' />
+  <node id='-144596' action='modify' lat='0.07128' lon='0.0185' />
+  <node id='-144597' action='modify' lat='0.07193' lon='0.01837' />
+  <node id='-144598' action='modify' lat='0.07114' lon='0.01864' />
+  <node id='-144599' action='modify' lat='0.07054' lon='0.01923' />
+  <node id='-144600' action='modify' lat='0.06958' lon='0.02019' />
+  <node id='-144601' action='modify' lat='0.06928' lon='0.02049' />
+  <node id='-144602' action='modify' lat='0.06914' lon='0.02077' />
+  <node id='-144603' action='modify' lat='0.06913' lon='0.02093' />
+  <node id='-144604' action='modify' lat='0.06917' lon='0.02108' />
+  <node id='-144605' action='modify' lat='0.06929' lon='0.02126' />
+  <node id='-144606' action='modify' lat='0.06936' lon='0.02133' />
+  <node id='-144607' action='modify' lat='0.07046' lon='0.02244' />
+  <node id='-144608' action='modify' lat='0.07000704558' lon='0.02198292781' />
+  <node id='-144609' action='modify' lat='0.07057' lon='0.02254' />
+  <node id='-144610' action='modify' lat='0.07063' lon='0.0226' />
+  <node id='-144611' action='modify' lat='0.07071' lon='0.02269' />
+  <node id='-144612' action='modify' lat='0.07077' lon='0.0228' />
+  <node id='-144613' action='modify' lat='0.07082' lon='0.02291' />
+  <node id='-144614' action='modify' lat='0.07085' lon='0.02303' />
+  <node id='-144615' action='modify' lat='0.07086' lon='0.02315' />
+  <node id='-144616' action='modify' lat='0.07084' lon='0.02333' />
+  <node id='-144617' action='modify' lat='0.07074' lon='0.02356' />
+  <node id='-144618' action='modify' lat='0.07063' lon='0.0237' />
+  <node id='-144619' action='modify' lat='0.07059' lon='0.02374' />
+  <node id='-144620' action='modify' lat='0.07049' lon='0.02382' />
+  <node id='-144621' action='modify' lat='0.07039' lon='0.02389' />
+  <node id='-144622' action='modify' lat='0.07033' lon='0.02391' />
+  <node id='-144623' action='modify' lat='0.07022' lon='0.02395' />
+  <node id='-144624' action='modify' lat='0.0701' lon='0.02397' />
+  <node id='-144625' action='modify' lat='0.06997' lon='0.02397' />
+  <node id='-144626' action='modify' lat='0.06985' lon='0.02395' />
+  <node id='-144627' action='modify' lat='0.06974' lon='0.02391' />
+  <node id='-144628' action='modify' lat='0.06963' lon='0.02386' />
+  <node id='-144629' action='modify' lat='0.06953' lon='0.02378' />
+  <node id='-144630' action='modify' lat='0.06948' lon='0.02375' />
+  <node id='-144631' action='modify' lat='0.06913' lon='0.02339' />
+  <node id='-144632' action='modify' lat='0.06817' lon='0.02243' />
+  <node id='-144633' action='modify' lat='0.06804' lon='0.02227' />
+  <node id='-144634' action='modify' lat='0.07125' lon='0.01907' />
+  <node id='-144635' action='modify' lat='0.06838' lon='0.02246' />
+  <node id='-144636' action='modify' lat='0.06866' lon='0.02218' />
+  <node id='-144637' action='modify' lat='0.06894' lon='0.02246' />
+  <node id='-144638' action='modify' lat='0.06866' lon='0.02274' />
+  <node id='-144639' action='modify' lat='0.06894' lon='0.02246' />
+  <node id='-144640' action='modify' lat='0.06866' lon='0.02274' />
+  <node id='-144641' action='modify' lat='0.06894' lon='0.02302' />
+  <node id='-144642' action='modify' lat='0.06922' lon='0.02274' />
+  <node id='-144643' action='modify' lat='0.06943557319' lon='0.02370430385' />
+  <node id='-144644' action='modify' lat='0.06937' lon='0.02361' />
+  <node id='-144645' action='modify' lat='0.0693' lon='0.0235' />
+  <node id='-144646' action='modify' lat='0.06923' lon='0.0234' />
+  <node id='-144647' action='modify' lat='0.06917' lon='0.02335' />
+  <node id='-144648' action='modify' lat='0.06821' lon='0.02239' />
+  <node id='-144649' action='modify' lat='0.069295' lon='0.020475' />
+  <node id='-144650' action='modify' lat='0.0694' lon='0.0204' />
+  <node id='-144651' action='modify' lat='0.0695' lon='0.02034' />
+  <node id='-144652' action='modify' lat='0.0696' lon='0.02027' />
+  <node id='-144653' action='modify' lat='0.06962' lon='0.02024' />
+  <node id='-144654' action='modify' lat='0.07059' lon='0.01928' />
+  <node id='-144655' action='modify' lat='0.07069' lon='0.01915' />
+  <node id='-144656' action='modify' lat='0.07075' lon='0.01905' />
+  <node id='-144657' action='modify' lat='0.07082741703' lon='0.01894737325' />
+  <node id='-144658' action='modify' lat='0.06812' lon='0.02248' />
+  <node id='-144659' action='modify' lat='0.06815' lon='0.02244' />
+  <node id='-144660' action='modify' lat='0.06912' lon='0.0234' />
+  <node id='-144661' action='modify' lat='0.06908' lon='0.02344' />
+  <node id='-144662' action='modify' lat='0.06919' lon='0.02333' />
+  <node id='-144663' action='modify' lat='0.06822' lon='0.02237' />
+  <node id='-144664' action='modify' lat='0.06826' lon='0.02234' />
+  <node id='-144665' action='modify' lat='0.06922' lon='0.0233' />
+  <node id='-144666' action='modify' lat='0.06881' lon='0.02317' />
+  <node id='-144667' action='modify' lat='0.06867' lon='0.02331' />
+  <node id='-144668' action='modify' lat='0.06839' lon='0.02303' />
+  <node id='-144669' action='modify' lat='0.06853' lon='0.02289' />
+  <node id='-144823' action='modify' lat='0.07228063493' lon='0.03690588704' />
+  <node id='-144825' action='modify' lat='0.07233613186' lon='0.03694575691' />
+  <node id='-144827' action='modify' lat='0.07239577951' lon='0.03697909866' />
+  <node id='-144829' action='modify' lat='0.07245881345' lon='0.03700548496' />
+  <node id='-144831' action='modify' lat='0.07252442582' lon='0.03702457764' />
+  <node id='-144833' action='modify' lat='0.07259177572' lon='0.03703613202' />
+  <node id='-144835' action='modify' lat='0.07272822428' lon='0.03703613202' />
+  <node id='-144837' action='modify' lat='0.07279557418' lon='0.03702457764' />
+  <node id='-144839' action='modify' lat='0.07286118655' lon='0.03700548496' />
+  <node id='-144841' action='modify' lat='0.07292422049' lon='0.03697909866' />
+  <node id='-144843' action='modify' lat='0.07298386815' lon='0.03694575691' />
+  <node id='-144845' action='modify' lat='0.07303936507' lon='0.03690588704' />
+  <node id='-144847' action='modify' lat='0.07314146237' lon='0.03680044984' />
+  <node id='-144849' action='modify' lat='0.07318473897' lon='0.03673470994' />
+  <node id='-144851' action='modify' lat='0.073219094' lon='0.03666389799' />
+  <node id='-144853' action='modify' lat='0.07324394336' lon='0.03658921794' />
+  <node id='-144855' action='modify' lat='0.07325886457' lon='0.03651193949' />
+  <node id='-144857' action='modify' lat='0.07326360394' lon='0.03643337652' />
+  <node id='-144859' action='modify' lat='0.07325808088' lon='0.03635486476' />
+  <node id='-144861' action='modify' lat='0.07324238931' lon='0.03627773904' />
+  <node id='-144863' action='modify' lat='0.07321679601' lon='0.03620331066' />
+  <node id='-144865' action='modify' lat='0.07318173611' lon='0.03613284505' />
+  <node id='-144867' action='modify' lat='0.0731378057' lon='0.03606754024' />
+  <node id='-144869' action='modify' lat='0.07308575168' lon='0.03600850655' />
+  <node id='-144871' action='modify' lat='0.07302645907' lon='0.03595674767' />
+  <node id='-144873' action='modify' lat='0.07296093595' lon='0.03591314359' />
+  <node id='-144875' action='modify' lat='0.07289029635' lon='0.03587843566' />
+  <node id='-144877' action='modify' lat='0.07281574126' lon='0.035853214' />
+  <node id='-144879' action='modify' lat='0.07273853828' lon='0.0358379074' />
+  <node id='-144881' action='modify' lat='0.07266' lon='0.03583277613' />
+  <node id='-144883' action='modify' lat='0.07258146172' lon='0.0358379074' />
+  <node id='-144885' action='modify' lat='0.07250425874' lon='0.035853214' />
+  <node id='-144887' action='modify' lat='0.07242970366' lon='0.03587843566' />
+  <node id='-144889' action='modify' lat='0.07235906405' lon='0.03591314359' />
+  <node id='-144891' action='modify' lat='0.07229354093' lon='0.03595674767' />
+  <node id='-144893' action='modify' lat='0.07223424832' lon='0.03600850655' />
+  <node id='-144895' action='modify' lat='0.0721821943' lon='0.03606754024' />
+  <node id='-144897' action='modify' lat='0.07213826389' lon='0.03613284505' />
+  <node id='-144899' action='modify' lat='0.07210320399' lon='0.03620331066' />
+  <node id='-144901' action='modify' lat='0.07207761068' lon='0.03627773904' />
+  <node id='-144903' action='modify' lat='0.07206191911' lon='0.03635486476' />
+  <node id='-144905' action='modify' lat='0.07205639606' lon='0.03643337652' />
+  <node id='-144907' action='modify' lat='0.07206113543' lon='0.03651193949' />
+  <node id='-144909' action='modify' lat='0.07207605664' lon='0.03658921794' />
+  <node id='-144911' action='modify' lat='0.072100906' lon='0.03666389799' />
+  <node id='-144913' action='modify' lat='0.07213526103' lon='0.03673470994' />
+  <node id='-144915' action='modify' lat='0.07217853762' lon='0.03680044984' />
+  <node id='-144957' action='modify' lat='0.08001622163' lon='0.02993099193' />
+  <node id='-144959' action='modify' lat='0.08007597468' lon='0.02985631267' />
+  <node id='-144961' action='modify' lat='0.08012877576' lon='0.0297765664' />
+  <node id='-144963' action='modify' lat='0.08017419768' lon='0.02969239829' />
+  <node id='-144965' action='modify' lat='0.08021187298' lon='0.02960448927' />
+  <node id='-144967' action='modify' lat='0.08024149684' lon='0.02951355055' />
+  <node id='-144969' action='modify' lat='0.08026282961' lon='0.02942031783' />
+  <node id='-144971' action='modify' lat='0.0802756987' lon='0.02932554541' />
+  <node id='-144973' action='modify' lat='0.0802756987' lon='0.02913445459' />
+  <node id='-144975' action='modify' lat='0.08026282961' lon='0.02903968217' />
+  <node id='-144977' action='modify' lat='0.08024149684' lon='0.02894644945' />
+  <node id='-144979' action='modify' lat='0.08021187298' lon='0.02885551073' />
+  <node id='-144981' action='modify' lat='0.08017419768' lon='0.02876760171' />
+  <node id='-144983' action='modify' lat='0.08012877576' lon='0.0286834336' />
+  <node id='-144985' action='modify' lat='0.08007597468' lon='0.02860368733' />
+  <node id='-144987' action='modify' lat='0.08001622163' lon='0.02852900807' />
+  <node id='-144989' action='modify' lat='0.079871847' lon='0.02839249391' />
+  <node id='-144991' action='modify' lat='0.0797875141' lon='0.02833288751' />
+  <node id='-144993' action='modify' lat='0.07969779677' lon='0.02828174301' />
+  <node id='-144995' action='modify' lat='0.07960354125' lon='0.02823954284' />
+  <node id='-144997' action='modify' lat='0.07950563659' lon='0.02820668505' />
+  <node id='-144999' action='modify' lat='0.07940500627' lon='0.02818347956' />
+  <node id='-145001' action='modify' lat='0.07930259948' lon='0.02817014525' />
+  <node id='-145003' action='modify' lat='0.07919938216' lon='0.0281668079' />
+  <node id='-145005' action='modify' lat='0.07909632788' lon='0.02817349899' />
+  <node id='-145007' action='modify' lat='0.0789944087' lon='0.02819015541' />
+  <node id='-145009' action='modify' lat='0.07889458596' lon='0.02821662004' />
+  <node id='-145011' action='modify' lat='0.07879780123' lon='0.02825264326' />
+  <node id='-145013' action='modify' lat='0.07870496741' lon='0.02829788529' />
+  <node id='-145015' action='modify' lat='0.07861696016' lon='0.02835191938' />
+  <node id='-145017' action='modify' lat='0.07853460958' lon='0.02841423587' />
+  <node id='-145019' action='modify' lat='0.07845869245' lon='0.02848424696' />
+  <node id='-145021' action='modify' lat='0.07838992483' lon='0.02856129228' />
+  <node id='-145023' action='modify' lat='0.07832895539' lon='0.02864464511' />
+  <node id='-145025' action='modify' lat='0.07827635919' lon='0.02873351924' />
+  <node id='-145027' action='modify' lat='0.07823263235' lon='0.02882707636' />
+  <node id='-145029' action='modify' lat='0.07819818733' lon='0.02892443401' />
+  <node id='-145031' action='modify' lat='0.07817334901' lon='0.02902467388' />
+  <node id='-145033' action='modify' lat='0.07815835168' lon='0.02912685047' />
+  <node id='-145035' action='modify' lat='0.0781533368' lon='0.02923' />
+  <node id='-145037' action='modify' lat='0.07815835168' lon='0.02933314953' />
+  <node id='-145039' action='modify' lat='0.07817334901' lon='0.02943532612' />
+  <node id='-145041' action='modify' lat='0.07819818733' lon='0.02953556599' />
+  <node id='-145043' action='modify' lat='0.07823263235' lon='0.02963292364' />
+  <node id='-145045' action='modify' lat='0.07827635919' lon='0.02972648076' />
+  <node id='-145047' action='modify' lat='0.07832895539' lon='0.02981535489' />
+  <node id='-145049' action='modify' lat='0.07838992483' lon='0.02989870772' />
+  <node id='-145051' action='modify' lat='0.07845869245' lon='0.02997575304' />
+  <node id='-145053' action='modify' lat='0.07853460958' lon='0.03004576413' />
+  <node id='-145055' action='modify' lat='0.07861696016' lon='0.03010808062' />
+  <node id='-145057' action='modify' lat='0.07870496741' lon='0.03016211471' />
+  <node id='-145059' action='modify' lat='0.07879780123' lon='0.03020735674' />
+  <node id='-145061' action='modify' lat='0.07889458596' lon='0.03024337996' />
+  <node id='-145063' action='modify' lat='0.0789944087' lon='0.03026984459' />
+  <node id='-145065' action='modify' lat='0.07909632788' lon='0.03028650101' />
+  <node id='-145067' action='modify' lat='0.07919938216' lon='0.0302931921' />
+  <node id='-145069' action='modify' lat='0.07930259948' lon='0.03028985475' />
+  <node id='-145071' action='modify' lat='0.07940500627' lon='0.03027652044' />
+  <node id='-145073' action='modify' lat='0.07950563659' lon='0.03025331495' />
+  <node id='-145075' action='modify' lat='0.07960354125' lon='0.03022045716' />
+  <node id='-145077' action='modify' lat='0.07969779677' lon='0.03017825699' />
+  <node id='-145079' action='modify' lat='0.0797875141' lon='0.03012711249' />
+  <node id='-145081' action='modify' lat='0.079871847' lon='0.03006750609' />
+  <node id='-145451' action='modify' lat='0.07366247065' lon='0.02195461648' />
+  <node id='-145453' action='modify' lat='0.07360563457' lon='0.02196464638' />
+  <node id='-145455' action='modify' lat='0.07349413341' lon='0.02200138598' />
+  <node id='-145457' action='modify' lat='0.07344062875' lon='0.02202813832' />
+  <node id='-145459' action='modify' lat='0.07332828738' lon='0.02210945286' />
+  <node id='-145461' action='modify' lat='0.07327348713' lon='0.02216647011' />
+  <node id='-145463' action='modify' lat='0.07322651932' lon='0.02223009448' />
+  <node id='-145465' action='modify' lat='0.0731881725' lon='0.02229925775' />
+  <node id='-145467' action='modify' lat='0.07315909048' lon='0.02237279873' />
+  <node id='-145469' action='modify' lat='0.07313976155' lon='0.02244948269' />
+  <node id='-145471' action='modify' lat='0.07313051021' lon='0.02252802219' />
+  <node id='-145473' action='modify' lat='0.07313149178' lon='0.02260709858' />
+  <node id='-145475' action='modify' lat='0.0731426898' lon='0.02268538423' />
+  <node id='-145477' action='modify' lat='0.07316391625' lon='0.02276156478' />
+  <node id='-145479' action='modify' lat='0.07319481476' lon='0.02283436121' />
+  <node id='-145481' action='modify' lat='0.07323486655' lon='0.02290255132' />
+  <node id='-145483' action='modify' lat='0.0732833992' lon='0.02296499023' />
+  <node id='-145485' action='modify' lat='0.07333959786' lon='0.02302062965' />
+  <node id='-145487' action='modify' lat='0.073402519' lon='0.02306853542' />
+  <node id='-145489' action='modify' lat='0.07347110621' lon='0.02310790325' />
+  <node id='-145491' action='modify' lat='0.07354420797' lon='0.02313807216' />
+  <node id='-145493' action='modify' lat='0.07362059695' lon='0.02315853565' />
+  <node id='-145495' action='modify' lat='0.07369899062' lon='0.02316895014' />
+  <node id='-145497' action='modify' lat='0.0737780728' lon='0.02316914079' />
+  <node id='-145499' action='modify' lat='0.07385651578' lon='0.02315910439' />
+  <node id='-145501' action='modify' lat='0.07393300253' lon='0.02313900945' />
+  <node id='-145503' action='modify' lat='0.0740062489' lon='0.02310919335' />
+  <node id='-145505' action='modify' lat='0.07407502512' lon='0.02307015668' />
+  <node id='-145507' action='modify' lat='0.07413817651' lon='0.02302255484' />
+  <node id='-145509' action='modify' lat='0.07419464278' lon='0.02296718703' />
+  <node id='-145511' action='modify' lat='0.07424347591' lon='0.02290498284' />
+  <node id='-145513' action='modify' lat='0.07428385602' lon='0.02283698664' />
+  <node id='-145515' action='modify' lat='0.07431510515' lon='0.02276434004' />
+  <node id='-145517' action='modify' lat='0.07433669866' lon='0.02268826271' />
+  <node id='-145519' action='modify' lat='0.074348274' lon='0.02261003196' />
+  <node id='-145521' action='modify' lat='0.07434963684' lon='0.02253096122' />
+  <node id='-145523' action='modify' lat='0.07434076428' lon='0.02245237804' />
+  <node id='-145525' action='modify' lat='0.0743218053' lon='0.02237560177' />
+  <node id='-145527' action='modify' lat='0.07429307821' lon='0.02230192143' />
+  <node id='-145529' action='modify' lat='0.0742550653' lon='0.02223257407' />
+  <node id='-145531' action='modify' lat='0.0742084048' lon='0.02216872399' />
+  <node id='-145533' action='modify' lat='0.0741538801' lon='0.02211144317' />
+  <node id='-145535' action='modify' lat='0.07409240664' lon='0.02206169334' />
+  <node id='-145537' action='modify' lat='0.0740250165' lon='0.02202030975' />
+  <node id='-145539' action='modify' lat='0.07395284113' lon='0.02198798721' />
+  <node id='-145541' action='modify' lat='0.0738770923' lon='0.02196526839' />
+  <node id='-145543' action='modify' lat='0.07379904179' lon='0.02195253472' />
+  <node id='-145564' action='modify' lat='0.0714' lon='0.03605' />
+  <node id='-145592' action='modify' lat='0.07151035153' lon='0.03613923059' />
+  <node id='-145594' action='modify' lat='0.07145691062' lon='0.03609246979' />
+  <node id='-145596' action='modify' lat='0.07133935131' lon='0.03601172391' />
+  <node id='-145598' action='modify' lat='0.07127588767' lon='0.035978322' />
+  <node id='-145600' action='modify' lat='0.07111982556' lon='0.035920636' />
+  <node id='-145602' action='modify' lat='0.07102709337' lon='0.03590077614' />
+  <node id='-145604' action='modify' lat='0.07093280224' lon='0.03589063435' />
+  <node id='-145606' action='modify' lat='0.07083796778' lon='0.03589031985' />
+  <node id='-145608' action='modify' lat='0.07074361146' lon='0.03589983603' />
+  <node id='-145610' action='modify' lat='0.07065074959' lon='0.03591908039' />
+  <node id='-145612' action='modify' lat='0.07056038237' lon='0.03594784566' />
+  <node id='-145614' action='modify' lat='0.07047348316' lon='0.035985822' />
+  <node id='-145616' action='modify' lat='0.07039098794' lon='0.03603260037' />
+  <node id='-145618' action='modify' lat='0.07031378528' lon='0.03608767691' />
+  <node id='-145620' action='modify' lat='0.07024270671' lon='0.03615045841' />
+  <node id='-145622' action='modify' lat='0.07017851783' lon='0.03622026865' />
+  <node id='-145624' action='modify' lat='0.07012191002' lon='0.03629635568' />
+  <node id='-145626' action='modify' lat='0.07007349299' lon='0.03637789999' />
+  <node id='-145628' action='modify' lat='0.07003378825' lon='0.03646402327' />
+  <node id='-145630' action='modify' lat='0.07000322346' lon='0.03655379786' />
+  <node id='-145632' action='modify' lat='0.06998212782' lon='0.03664625683' />
+  <node id='-145634' action='modify' lat='0.06997072857' lon='0.03674040428' />
+  <node id='-145636' action='modify' lat='0.06996914847' lon='0.03683522617' />
+  <node id='-145638' action='modify' lat='0.06997740456' lon='0.03692970116' />
+  <node id='-145640' action='modify' lat='0.0699954079' lon='0.03702281166' />
+  <node id='-145642' action='modify' lat='0.07002296458' lon='0.03711355479' />
+  <node id='-145644' action='modify' lat='0.07005977779' lon='0.03720095314' />
+  <node id='-145646' action='modify' lat='0.07010545101' lon='0.03728406536' />
+  <node id='-145648' action='modify' lat='0.0701594923' lon='0.03736199624' />
+  <node id='-145650' action='modify' lat='0.07022131957' lon='0.03743390638' />
+  <node id='-145652' action='modify' lat='0.0702902669' lon='0.03749902125' />
+  <node id='-145654' action='modify' lat='0.07036559164' lon='0.03755663949' />
+  <node id='-145656' action='modify' lat='0.07044648247' lon='0.0376061405' />
+  <node id='-145658' action='modify' lat='0.07053206812' lon='0.0376469911' />
+  <node id='-145660' action='modify' lat='0.07062142675' lon='0.03767875129' />
+  <node id='-145662' action='modify' lat='0.07071359588' lon='0.03770107898' />
+  <node id='-145664' action='modify' lat='0.07080758275' lon='0.03771373368' />
+  <node id='-145666' action='modify' lat='0.07090237503' lon='0.03771657909' />
+  <node id='-145668' action='modify' lat='0.07099695172' lon='0.03770958456' />
+  <node id='-145670' action='modify' lat='0.07109029412' lon='0.03769282542' />
+  <node id='-145672' action='modify' lat='0.07118139686' lon='0.03766648219' />
+  <node id='-145674' action='modify' lat='0.07126927865' lon='0.03763083862' />
+  <node id='-145676' action='modify' lat='0.07135299294' lon='0.03758627861' />
+  <node id='-145678' action='modify' lat='0.07143163803' lon='0.03753328213' />
+  <node id='-145680' action='modify' lat='0.07150436683' lon='0.03747241999' />
+  <node id='-145682' action='modify' lat='0.071570396' lon='0.03740434775' />
+  <node id='-145684' action='modify' lat='0.07162901431' lon='0.03732979861' />
+  <node id='-145686' action='modify' lat='0.07167959041' lon='0.03724957554' />
+  <node id='-145688' action='modify' lat='0.07172157953' lon='0.03716454262' />
+  <node id='-145690' action='modify' lat='0.07175452941' lon='0.03707561574' />
+  <node id='-145692' action='modify' lat='0.07177808514' lon='0.03698375273' />
+  <node id='-145694' action='modify' lat='0.07179199302' lon='0.03688994304' />
+  <node id='-145696' action='modify' lat='0.07179610323' lon='0.0367951971' />
+  <node id='-145698' action='modify' lat='0.0717903715' lon='0.03670053542' />
+  <node id='-145700' action='modify' lat='0.07177485958' lon='0.03660697759' />
+  <node id='-145702' action='modify' lat='0.07174973454' lon='0.03651553134' />
+  <node id='-145704' action='modify' lat='0.071715267' lon='0.03642718161' />
+  <node id='-145706' action='modify' lat='0.07167182821' lon='0.03634288004' />
+  <node id='-145708' action='modify' lat='0.07161988606' lon='0.03626353463' />
+  <node id='-145709' action='modify' lat='0.0701' lon='0.03546' />
+  <node id='-145723' action='modify' lat='0.07000445763' lon='0.03538253023' />
+  <node id='-145725' action='modify' lat='0.07005117073' lon='0.03542257003' />
+  <node id='-145727' action='modify' lat='0.07016706942' lon='0.03550498911' />
+  <node id='-145729' action='modify' lat='0.07023718953' lon='0.03554505774' />
+  <node id='-145731' action='modify' lat='0.070410218' lon='0.03561817827' />
+  <node id='-145733' action='modify' lat='0.07051361212' lon='0.03564665427' />
+  <node id='-145735' action='modify' lat='0.07061924543' lon='0.03566516995' />
+  <node id='-145737' action='modify' lat='0.0707261607' lon='0.03567355752' />
+  <node id='-145739' action='modify' lat='0.07083338908' lon='0.03567174098' />
+  <node id='-145741' action='modify' lat='0.07093995889' lon='0.0356597368' />
+  <node id='-145743' action='modify' lat='0.07104490443' lon='0.03563765375' />
+  <node id='-145745' action='modify' lat='0.07114727468' lon='0.03560569194' />
+  <node id='-145747' action='modify' lat='0.07124614201' lon='0.035564141' />
+  <node id='-145749' action='modify' lat='0.07134061048' lon='0.03551337746' />
+  <node id='-145751' action='modify' lat='0.07142982405' lon='0.03545386134' />
+  <node id='-145753' action='modify' lat='0.07151297429' lon='0.03538613194' />
+  <node id='-145755' action='modify' lat='0.07158930769' lon='0.03531080302' />
+  <node id='-145757' action='modify' lat='0.07165813255' lon='0.03522855721' />
+  <node id='-145759' action='modify' lat='0.07171882519' lon='0.03514013978' />
+  <node id='-145761' action='modify' lat='0.07177083562' lon='0.03504635197' />
+  <node id='-145763' action='modify' lat='0.07181369253' lon='0.03494804365' />
+  <node id='-145765' action='modify' lat='0.07184700757' lon='0.03484610568' />
+  <node id='-145767' action='modify' lat='0.07187047884' lon='0.0347414618' />
+  <node id='-145769' action='modify' lat='0.07188389365' lon='0.03463506027' />
+  <node id='-145771' action='modify' lat='0.07188713044' lon='0.03452786528' />
+  <node id='-145773' action='modify' lat='0.07188015987' lon='0.0344208482' />
+  <node id='-145775' action='modify' lat='0.07186304511' lon='0.03431497881' />
+  <node id='-145777' action='modify' lat='0.07183594126' lon='0.03421121647' />
+  <node id='-145779' action='modify' lat='0.07179909392' lon='0.03411050146' />
+  <node id='-145781' action='modify' lat='0.07175283699' lon='0.03401374643' />
+  <node id='-145783' action='modify' lat='0.07169758964' lon='0.03392182815' />
+  <node id='-145785' action='modify' lat='0.07163385253' lon='0.03383557958' />
+  <node id='-145787' action='modify' lat='0.07156220321' lon='0.03375578227' />
+  <node id='-145789' action='modify' lat='0.07148329096' lon='0.03368315934' />
+  <node id='-145791' action='modify' lat='0.07139783086' lon='0.03361836888' />
+  <node id='-145793' action='modify' lat='0.07130659734' lon='0.033561998' />
+  <node id='-145795' action='modify' lat='0.07121041714' lon='0.03351455753' />
+  <node id='-145797' action='modify' lat='0.07111016183' lon='0.03347647737' />
+  <node id='-145799' action='modify' lat='0.07100673988' lon='0.03344810259' />
+  <node id='-145801' action='modify' lat='0.0709010885' lon='0.03342969031' />
+  <node id='-145803' action='modify' lat='0.07079416508' lon='0.03342140738' />
+  <node id='-145805' action='modify' lat='0.07068693853' lon='0.03342332887' />
+  <node id='-145807' action='modify' lat='0.07058038051' lon='0.03343543735' />
+  <node id='-145809' action='modify' lat='0.07047545664' lon='0.03345762311' />
+  <node id='-145811' action='modify' lat='0.07037311771' lon='0.0334896851' />
+  <node id='-145813' action='modify' lat='0.07027429111' lon='0.03353133279' />
+  <node id='-145815' action='modify' lat='0.07017987236' lon='0.03358218876' />
+  <node id='-145817' action='modify' lat='0.07009071708' lon='0.03364179218' />
+  <node id='-145819' action='modify' lat='0.07000763318' lon='0.03370960293' />
+  <node id='-145821' action='modify' lat='0.06993137353' lon='0.03378500652' />
+  <node id='-145823' action='modify' lat='0.0698626292' lon='0.03386731966' />
+  <node id='-145825' action='modify' lat='0.06980202313' lon='0.03395579645' />
+  <node id='-145827' action='modify' lat='0.06975010452' lon='0.03404963512' />
+  <node id='-145829' action='modify' lat='0.06970734385' lon='0.03414798534' />
+  <node id='-145831' action='modify' lat='0.06967412859' lon='0.03424995587' />
+  <node id='-145833' action='modify' lat='0.06965075976' lon='0.03435462267' />
+  <node id='-145835' action='modify' lat='0.06963744909' lon='0.03446103728' />
+  <node id='-145837' action='modify' lat='0.06963431723' lon='0.03456823539' />
+  <node id='-145839' action='modify' lat='0.06964139254' lon='0.03467524559' />
+  <node id='-145841' action='modify' lat='0.06965861091' lon='0.03478109818' />
+  <node id='-145843' action='modify' lat='0.06968581631' lon='0.03488483394' />
+  <node id='-145845' action='modify' lat='0.06972276221' lon='0.03498551284' />
+  <node id='-145847' action='modify' lat='0.06976911382' lon='0.03508222255' />
+  <node id='-145849' action='modify' lat='0.0698244511' lon='0.03517408671' />
+  <node id='-145851' action='modify' lat='0.06988827261' lon='0.03526027286' />
+  <node id='-145866' action='modify' lat='0.07729' lon='0.02562' />
+  <node id='-145875' action='modify' lat='0.0772' lon='0.02553' />
+  <node id='-145876' action='modify' lat='0.07715' lon='0.02542' />
+  <node id='-145878' action='modify' lat='0.07708' lon='0.02533' />
+  <node id='-145879' action='modify' lat='0.07695' lon='0.02519' />
+  <node id='-145890' action='modify' lat='0.0764' lon='0.02466' />
+  <node id='-145896' action='modify' lat='0.07629' lon='0.02453' />
+  <node id='-145898' action='modify' lat='0.07622' lon='0.02445' />
+  <node id='-145899' action='modify' lat='0.07617' lon='0.02436' />
+  <node id='-145900' action='modify' lat='0.07613' lon='0.02421' />
+  <node id='-145901' action='modify' lat='0.07613' lon='0.02415' />
+  <node id='-145905' action='modify' lat='0.07613' lon='0.02411' />
+  <node id='-145906' action='modify' lat='0.07613' lon='0.02275' />
+  <node id='-145959' action='modify' lat='0.07737' lon='0.02562' />
+  <node id='-145960' action='modify' lat='0.07747' lon='0.02569' />
+  <node id='-145961' action='modify' lat='0.07752' lon='0.02572' />
+  <node id='-145962' action='modify' lat='0.07764' lon='0.02577' />
+  <node id='-145963' action='modify' lat='0.0777' lon='0.0258' />
+  <node id='-145964' action='modify' lat='0.07779500001' lon='0.025875' />
+  <node id='-145965' action='modify' lat='0.07745' lon='0.02553' />
+  <node id='-145966' action='modify' lat='0.07753' lon='0.02563' />
+  <node id='-145969' action='modify' lat='0.07756' lon='0.02569' />
+  <node id='-145971' action='modify' lat='0.0776' lon='0.0258' />
+  <node id='-145972' action='modify' lat='0.07763' lon='0.02586' />
+  <node id='-145974' action='modify' lat='0.07771' lon='0.02596' />
+  <node id='-145995' action='modify' lat='0.077845' lon='0.026345' />
+  <node id='-145996' action='modify' lat='0.07777' lon='0.02625' />
+  <node id='-145997' action='modify' lat='0.07774' lon='0.02619' />
+  <node id='-145998' action='modify' lat='0.0777' lon='0.02608' />
+  <node id='-146000' action='modify' lat='0.07766' lon='0.02602' />
+  <node id='-146001' action='modify' lat='0.07758772753' lon='0.02592223855' />
+  <node id='-146019' action='modify' lat='0.07792515207' lon='0.02626477558' />
+  <node id='-146020' action='modify' lat='0.07783' lon='0.02618' />
+  <node id='-146022' action='modify' lat='0.07777' lon='0.02616' />
+  <node id='-146023' action='modify' lat='0.07766' lon='0.02611' />
+  <node id='-146024' action='modify' lat='0.0776' lon='0.02608' />
+  <node id='-146026' action='modify' lat='0.07751' lon='0.02601' />
+  <node id='-146137' action='modify' lat='0.07902627122' lon='0.03100628022' />
+  <node id='-146138' action='modify' lat='0.07896' lon='0.0311' />
+  <node id='-146139' action='modify' lat='0.07893' lon='0.03115' />
+  <node id='-146140' action='modify' lat='0.07888' lon='0.03125' />
+  <node id='-146141' action='modify' lat='0.07879' lon='0.03139' />
+  <node id='-146142' action='modify' lat='0.07854' lon='0.03164' />
+  <node id='-146143' action='modify' lat='0.078' lon='0.03218' />
+  <node id='-146145' action='modify' lat='0.07777' lon='0.03241' />
+  <node id='-146146' action='modify' lat='0.07754' lon='0.03263' />
+  <node id='-146148' action='modify' lat='0.07738' lon='0.03287' />
+  <node id='-146149' action='modify' lat='0.07733' lon='0.03314' />
+  <node id='-146153' action='modify' lat='0.07738' lon='0.03342' />
+  <node id='-146154' action='modify' lat='0.07754' lon='0.03365' />
+  <node id='-146194' action='modify' lat='0.07769' lon='0.03381' />
+  <node id='-146200' action='modify' lat='0.07779' lon='0.03393' />
+  <node id='-146201' action='modify' lat='0.07787' lon='0.03408' />
+  <node id='-146202' action='modify' lat='0.07798' lon='0.0342' />
+  <node id='-146209' action='modify' lat='0.07775' lon='0.03387' />
+  <node id='-146210' action='modify' lat='0.07792' lon='0.03414' />
+  <node id='-146211' action='modify' lat='0.07863' lon='0.03486' />
+  <node id='-146212' action='modify' lat='0.07874' lon='0.03495' />
+  <node id='-146214' action='modify' lat='0.07898' lon='0.0351' />
+  <node id='-146215' action='modify' lat='0.07934' lon='0.03524' />
+  <node id='-146216' action='modify' lat='0.07947' lon='0.03532' />
+  <node id='-146217' action='modify' lat='0.07961' lon='0.03549' />
+  <node id='-146218' action='modify' lat='0.07966' lon='0.03564' />
+  <node id='-146219' action='modify' lat='0.07967' lon='0.03574' />
+  <node id='-146220' action='modify' lat='0.07963' lon='0.03595' />
+  <node id='-146221' action='modify' lat='0.07949' lon='0.03628' />
+  <node id='-146222' action='modify' lat='0.07947' lon='0.03635' />
+  <node id='-146223' action='modify' lat='0.07943' lon='0.03649' />
+  <node id='-146224' action='modify' lat='0.07941' lon='0.03663' />
+  <node id='-146225' action='modify' lat='0.07941' lon='0.03677' />
+  <node id='-146226' action='modify' lat='0.07944' lon='0.03698' />
+  <node id='-146227' action='modify' lat='0.07952' lon='0.03718' />
+  <node id='-146228' action='modify' lat='0.07959' lon='0.0373' />
+  <node id='-146229' action='modify' lat='0.0797' lon='0.03743' />
+  <node id='-146234' action='modify' lat='0.07830253816' lon='0.03452750029' />
+  <node id='-146235' action='modify' lat='0.07842' lon='0.03462' />
+  <node id='-146236' action='modify' lat='0.07857' lon='0.03471' />
+  <node id='-146247' action='modify' lat='0.07867' lon='0.03475' />
+  <node id='-146256' action='modify' lat='0.07938' lon='0.03504' />
+  <node id='-146283' action='modify' lat='0.07953' lon='0.0351' />
+  <node id='-146285' action='modify' lat='0.07975' lon='0.03525' />
+  <node id='-146286' action='modify' lat='0.07989' lon='0.03546' />
+  <node id='-146287' action='modify' lat='0.07994' lon='0.03571' />
+  <node id='-146292' action='modify' lat='0.07994' lon='0.03671' />
+  <node id='-146293' action='modify' lat='0.0799' lon='0.03692' />
+  <node id='-146294' action='modify' lat='0.07978' lon='0.0371' />
+  <node id='-146295' action='modify' lat='0.07961' lon='0.03722' />
+  <node id='-146296' action='modify' lat='0.0794' lon='0.03726' />
+  <node id='-146298' action='modify' lat='0.0792' lon='0.03721' />
+  <node id='-146299' action='modify' lat='0.07902' lon='0.0371' />
+  <node id='-146300' action='modify' lat='0.07883' lon='0.0369' />
+  <node id='-146302' action='modify' lat='0.07829' lon='0.03636' />
+  <node id='-146311' action='modify' lat='0.07809' lon='0.03616' />
+  <node id='-146315' action='modify' lat='0.07805' lon='0.03612' />
+  <node id='-146316' action='modify' lat='0.07801' lon='0.03607' />
+  <node id='-146317' action='modify' lat='0.07795' lon='0.03596' />
+  <node id='-146318' action='modify' lat='0.07791' lon='0.03591' />
+  <node id='-146320' action='modify' lat='0.07788' lon='0.03587' />
+  <node id='-146326' action='modify' lat='0.07739' lon='0.03538' />
+  <node id='-146327' action='modify' lat='0.07729' lon='0.0353' />
+  <node id='-146328' action='modify' lat='0.07734' lon='0.03534' />
+  <node id='-146329' action='modify' lat='0.07719' lon='0.03524' />
+  <node id='-146330' action='modify' lat='0.07714' lon='0.03521' />
+  <node id='-146331' action='modify' lat='0.07709' lon='0.03517' />
+  <node id='-146334' action='modify' lat='0.07708' lon='0.03515' />
+  <node id='-146343' action='modify' lat='0.07555' lon='0.03363' />
+  <node id='-146359' action='modify' lat='0.07553' lon='0.03361' />
+  <node id='-146362' action='modify' lat='0.07549' lon='0.03356' />
+  <node id='-146363' action='modify' lat='0.07546' lon='0.03351' />
+  <node id='-146364' action='modify' lat='0.0754' lon='0.03341' />
+  <node id='-146365' action='modify' lat='0.07536' lon='0.03336' />
+  <node id='-146366' action='modify' lat='0.07532' lon='0.03331' />
+  <node id='-146367' action='modify' lat='0.07473' lon='0.03272' />
+  <node id='-146377' action='modify' lat='0.07419' lon='0.03218' />
+  <node id='-146425' action='modify' lat='0.07778' lon='0.03577' />
+  <node id='-146433' action='modify' lat='0.07774' lon='0.03572' />
+  <node id='-146434' action='modify' lat='0.0777' lon='0.03567' />
+  <node id='-146435' action='modify' lat='0.07764' lon='0.03557' />
+  <node id='-146436' action='modify' lat='0.07761' lon='0.03552' />
+  <node id='-146437' action='modify' lat='0.07757' lon='0.03547' />
+  <node id='-146442' action='modify' lat='0.07191' lon='0.02981' />
+  <node id='-146446' action='modify' lat='0.07563' lon='0.03354' />
+  <node id='-146447' action='modify' lat='0.07716' lon='0.03507' />
+  <node id='-146451' action='modify' lat='0.07523' lon='0.03322' />
+  <node id='-146453' action='modify' lat='0.07519' lon='0.03318' />
+  <node id='-146454' action='modify' lat='0.07516' lon='0.03313' />
+  <node id='-146455' action='modify' lat='0.0751' lon='0.03302' />
+  <node id='-146456' action='modify' lat='0.07506' lon='0.03297' />
+  <node id='-146457' action='modify' lat='0.07502' lon='0.03293' />
+  <node id='-146462' action='modify' lat='0.07498' lon='0.03297' />
+  <node id='-146463' action='modify' lat='0.07502' lon='0.03301' />
+  <node id='-146464' action='modify' lat='0.07507' lon='0.03304' />
+  <node id='-146493' action='modify' lat='0.07518' lon='0.0331' />
+  <node id='-146494' action='modify' lat='0.07523' lon='0.03314' />
+  <node id='-146495' action='modify' lat='0.07527' lon='0.03318' />
+  <node id='-146695' action='modify' lat='0.0811' lon='0.03901' />
+  <node id='-146712' action='modify' lat='0.07927' lon='0.03727' />
+  <node id='-146778' action='modify' lat='0.07186' lon='0.02977' />
+  <node id='-146781' action='modify' lat='0.0718' lon='0.02973' />
+  <node id='-146782' action='modify' lat='0.07168' lon='0.02966' />
+  <node id='-146784' action='modify' lat='0.07163' lon='0.02962' />
+  <node id='-146785' action='modify' lat='0.07158' lon='0.02958' />
+  <node id='-146795' action='modify' lat='0.07118' lon='0.02918' />
+  <node id='-146798' action='modify' lat='0.07106' lon='0.029' />
+  <node id='-146799' action='modify' lat='0.07102' lon='0.0288' />
+  <node id='-146802' action='modify' lat='0.07106' lon='0.02859' />
+  <node id='-146804' action='modify' lat='0.07118' lon='0.02842' />
+  <node id='-146921' action='modify' lat='0.07121' lon='0.02839' />
+  <node id='-146924' action='modify' lat='0.07134' lon='0.02819' />
+  <node id='-146925' action='modify' lat='0.07138' lon='0.02796' />
+  <node id='-146926' action='modify' lat='0.07134' lon='0.02773' />
+  <node id='-146927' action='modify' lat='0.07121' lon='0.02754' />
+  <node id='-146940' action='modify' lat='0.07077' lon='0.0271' />
+  <node id='-146941' action='modify' lat='0.07049' lon='0.02682' />
+  <node id='-146942' action='modify' lat='0.07039' lon='0.02672' />
+  <node id='-146950' action='modify' lat='0.07008' lon='0.02641' />
+  <node id='-146951' action='modify' lat='0.06999' lon='0.02632' />
+  <node id='-146952' action='modify' lat='0.06972' lon='0.02605' />
+  <node id='-146953' action='modify' lat='0.06948' lon='0.02581' />
+  <node id='-146954' action='modify' lat='0.0693' lon='0.02563' />
+  <node id='-146962' action='modify' lat='0.06928' lon='0.02561' />
+  <node id='-146963' action='modify' lat='0.06907' lon='0.0254' />
+  <node id='-146978' action='modify' lat='0.069' lon='0.02533' />
+  <node id='-146979' action='modify' lat='0.06639' lon='0.02273' />
+  <node id='-146980' action='modify' lat='0.06629' lon='0.02263' />
+  <node id='-146983' action='modify' lat='0.06617' lon='0.02255' />
+  <node id='-146984' action='modify' lat='0.06604' lon='0.02249' />
+  <node id='-146985' action='modify' lat='0.0656' lon='0.02231' />
+  <node id='-146986' action='modify' lat='0.06543' lon='0.02221' />
+  <node id='-146987' action='modify' lat='0.06533' lon='0.02213' />
+  <node id='-146989' action='modify' lat='0.06514' lon='0.02185' />
+  <node id='-146990' action='modify' lat='0.065' lon='0.0215' />
+  <node id='-146992' action='modify' lat='0.06499' lon='0.02148' />
+  <node id='-146993' action='modify' lat='0.06496' lon='0.02141' />
+  <node id='-146994' action='modify' lat='0.06493' lon='0.02134' />
+  <node id='-146995' action='modify' lat='0.0649' lon='0.02128' />
+  <node id='-146996' action='modify' lat='0.06486' lon='0.02122' />
+  <node id='-146997' action='modify' lat='0.06482' lon='0.02116' />
+  <node id='-146998' action='modify' lat='0.06478' lon='0.02111' />
+  <node id='-146999' action='modify' lat='0.06473' lon='0.02106' />
+  <node id='-147004' action='modify' lat='0.06372' lon='0.02006' />
+  <node id='-147005' action='modify' lat='0.0635' lon='0.01983' />
+  <node id='-147006' action='modify' lat='0.06221' lon='0.01854' />
+  <node id='-147008' action='modify' lat='0.06217' lon='0.01851' />
+  <node id='-147009' action='modify' lat='0.06212' lon='0.01847' />
+  <node id='-147010' action='modify' lat='0.06207' lon='0.01844' />
+  <node id='-147011' action='modify' lat='0.06197' lon='0.0184' />
+  <node id='-147016' action='modify' lat='0.06192' lon='0.01837' />
+  <node id='-147020' action='modify' lat='0.06187' lon='0.01834' />
+  <node id='-147021' action='modify' lat='0.06183' lon='0.0183' />
+  <node id='-147022' action='modify' lat='0.06181' lon='0.01829' />
+  <node id='-147037' action='modify' lat='0.06177' lon='0.01825' />
+  <node id='-147038' action='modify' lat='0.06173' lon='0.01821' />
+  <node id='-147039' action='modify' lat='0.06165' lon='0.01815' />
+  <node id='-147040' action='modify' lat='0.06161' lon='0.01811' />
+  <node id='-147041' action='modify' lat='0.06157' lon='0.01807' />
+  <node id='-147044' action='modify' lat='0.05168' lon='0.00819' />
+  <node id='-147059' action='modify' lat='0.0516' lon='0.00827' />
+  <node id='-147060' action='modify' lat='0.05181' lon='0.00806' />
+  <node id='-147162' action='modify' lat='0.07869' lon='0.03126' />
+  <node id='-147164' action='modify' lat='0.07864' lon='0.03131' />
+  <node id='-147165' action='modify' lat='0.07858' lon='0.03134' />
+  <node id='-147166' action='modify' lat='0.07846' lon='0.03141' />
+  <node id='-147168' action='modify' lat='0.0784' lon='0.03144' />
+  <node id='-147169' action='modify' lat='0.07835' lon='0.03149' />
+  <node id='-147190' action='modify' lat='0.0781' lon='0.03174' />
+  <node id='-147191' action='modify' lat='0.07756' lon='0.03228' />
+  <node id='-147201' action='modify' lat='0.07747' lon='0.03237' />
+  <node id='-147207' action='modify' lat='0.07725' lon='0.0326' />
+  <node id='-147208' action='modify' lat='0.07721' lon='0.03264' />
+  <node id='-147209' action='modify' lat='0.07717' lon='0.03268' />
+  <node id='-147211' action='modify' lat='0.07714' lon='0.03273' />
+  <node id='-147212' action='modify' lat='0.07711' lon='0.03277' />
+  <node id='-147213' action='modify' lat='0.07709' lon='0.03282' />
+  <node id='-147214' action='modify' lat='0.07707' lon='0.03287' />
+  <node id='-147215' action='modify' lat='0.07706' lon='0.03292' />
+  <node id='-147216' action='modify' lat='0.07705' lon='0.03297' />
+  <node id='-147217' action='modify' lat='0.07705' lon='0.03302' />
+  <node id='-147218' action='modify' lat='0.07705' lon='0.03308' />
+  <node id='-147219' action='modify' lat='0.07706' lon='0.03313' />
+  <node id='-147220' action='modify' lat='0.07707' lon='0.03318' />
+  <node id='-147221' action='modify' lat='0.07709' lon='0.03323' />
+  <node id='-147222' action='modify' lat='0.07721' lon='0.03341' />
+  <node id='-147223' action='modify' lat='0.07762' lon='0.03382' />
+  <node id='-147224' action='modify' lat='0.07765' lon='0.03386' />
+  <node id='-147225' action='modify' lat='0.07769' lon='0.0339' />
+  <node id='-147226' action='modify' lat='0.07772' lon='0.03395' />
+  <node id='-147227' action='modify' lat='0.07775' lon='0.034' />
+  <node id='-147228' action='modify' lat='0.0778' lon='0.03411' />
+  <node id='-147229' action='modify' lat='0.07783' lon='0.03417' />
+  <node id='-147230' action='modify' lat='0.07787' lon='0.03422' />
+  <node id='-147231' action='modify' lat='0.07792' lon='0.03427' />
+  <node id='-147233' action='modify' lat='0.0781' lon='0.03445' />
+  <node id='-147234' action='modify' lat='0.07814' lon='0.0345' />
+  <node id='-147235' action='modify' lat='0.07818' lon='0.03455' />
+  <node id='-147236' action='modify' lat='0.07822' lon='0.0346' />
+  <node id='-147237' action='modify' lat='0.07827' lon='0.03472' />
+  <node id='-147238' action='modify' lat='0.0783' lon='0.03477' />
+  <node id='-147239' action='modify' lat='0.07833' lon='0.03481' />
+  <node id='-147240' action='modify' lat='0.07837' lon='0.03486' />
+  <node id='-147241' action='modify' lat='0.07842' lon='0.0349' />
+  <node id='-147242' action='modify' lat='0.07846' lon='0.03493' />
+  <node id='-147243' action='modify' lat='0.07852' lon='0.03496' />
+  <node id='-147244' action='modify' lat='0.07857' lon='0.03499' />
+  <node id='-147258' action='modify' lat='0.07925' lon='0.03527' />
+  <node id='-147259' action='modify' lat='0.07943' lon='0.03539' />
+  <node id='-147260' action='modify' lat='0.07954' lon='0.03556' />
+  <node id='-147261' action='modify' lat='0.07959' lon='0.03577' />
+  <node id='-147262' action='modify' lat='0.07954' lon='0.03598' />
+  <node id='-147263' action='modify' lat='0.07951' lon='0.03605' />
+  <node id='-147264' action='modify' lat='0.0794' lon='0.03623' />
+  <node id='-147265' action='modify' lat='0.07922' lon='0.03634' />
+  <node id='-147266' action='modify' lat='0.07901' lon='0.03638' />
+  <node id='-147267' action='modify' lat='0.07897' lon='0.03639' />
+  <node id='-147268' action='modify' lat='0.07877' lon='0.03634' />
+  <node id='-147271' action='modify' lat='0.07861' lon='0.03628' />
+  <node id='-147272' action='modify' lat='0.07855' lon='0.03625' />
+  <node id='-147274' action='modify' lat='0.0785' lon='0.03622' />
+  <node id='-147276' action='modify' lat='0.07845' lon='0.03618' />
+  <node id='-147277' action='modify' lat='0.07841' lon='0.03615' />
+  <node id='-147284' action='modify' lat='0.07761' lon='0.03535' />
+  <node id='-147286' action='modify' lat='0.08003' lon='0.03777' />
+  <node id='-147299' action='modify' lat='0.07837' lon='0.03611' />
+  <node id='-147301' action='modify' lat='0.07833' lon='0.03607' />
+  <node id='-147302' action='modify' lat='0.07828' lon='0.03604' />
+  <node id='-147313' action='modify' lat='0.07817' lon='0.03598' />
+  <node id='-147314' action='modify' lat='0.07813' lon='0.03594' />
+  <node id='-147315' action='modify' lat='0.07808' lon='0.0359' />
+  <node id='-147322' action='modify' lat='0.08118' lon='0.039' />
+  <node id='-147326' action='modify' lat='0.0772' lon='0.03502' />
+  <node id='-147327' action='modify' lat='0.07568' lon='0.0335' />
+  <node id='-147342' action='modify' lat='0.07163' lon='0.02945' />
+  <node id='-147368' action='modify' lat='0.0714' lon='0.0291' />
+  <node id='-147369' action='modify' lat='0.07131' lon='0.02869' />
+  <node id='-147371' action='modify' lat='0.0714' lon='0.02828' />
+  <node id='-147372' action='modify' lat='0.07163' lon='0.02792' />
+  <node id='-147379' action='modify' lat='0.0721' lon='0.02746' />
+  <node id='-147381' action='modify' lat='0.07222' lon='0.02728' />
+  <node id='-147382' action='modify' lat='0.07226' lon='0.02708' />
+  <node id='-147392' action='modify' lat='0.07221' lon='0.02687' />
+  <node id='-147393' action='modify' lat='0.0721' lon='0.02669' />
+  <node id='-147394' action='modify' lat='0.07' lon='0.0246' />
+  <node id='-147400' action='modify' lat='0.06888' lon='0.02347' />
+  <node id='-147401' action='modify' lat='0.06871' lon='0.02334' />
+  <node id='-147402' action='modify' lat='0.06859' lon='0.02327' />
+  <node id='-147403' action='modify' lat='0.06846' lon='0.02321' />
+  <node id='-147404' action='modify' lat='0.06832' lon='0.02317' />
+  <node id='-147405' action='modify' lat='0.06818' lon='0.02316' />
+  <node id='-147407' action='modify' lat='0.0681' lon='0.02315' />
+  <node id='-147419' action='modify' lat='0.06735' lon='0.02315' />
+  <node id='-147420' action='modify' lat='0.06721' lon='0.02315' />
+  <node id='-147421' action='modify' lat='0.06708' lon='0.02312' />
+  <node id='-147422' action='modify' lat='0.06694' lon='0.02307' />
+  <node id='-147423' action='modify' lat='0.06681' lon='0.02301' />
+  <node id='-147425' action='modify' lat='0.0667' lon='0.02293' />
+  <node id='-147426' action='modify' lat='0.06659' lon='0.02284' />
+  <node id='-147442' action='modify' lat='0.06532' lon='0.02157' />
+  <node id='-147443' action='modify' lat='0.06213' lon='0.01838' />
+  <node id='-147463' action='modify' lat='0.06208' lon='0.01833' />
+  <node id='-147464' action='modify' lat='0.06203' lon='0.01829' />
+  <node id='-147465' action='modify' lat='0.06198' lon='0.01826' />
+  <node id='-147467' action='modify' lat='0.06193' lon='0.01823' />
+  <node id='-147470' action='modify' lat='0.06189' lon='0.01821' />
+  <node id='-147471' action='modify' lat='0.06186' lon='0.0182' />
+  <node id='-147472' action='modify' lat='0.06181' lon='0.01817' />
+  <node id='-147473' action='modify' lat='0.06175' lon='0.01814' />
+  <node id='-147476' action='modify' lat='0.0617' lon='0.01811' />
+  <node id='-147478' action='modify' lat='0.06165' lon='0.01807' />
+  <node id='-147479' action='modify' lat='0.06161' lon='0.01803' />
+  <node id='-147480' action='modify' lat='0.05173' lon='0.00815' />
+  <node id='-147486' action='modify' lat='0.07757' lon='0.0353' />
+  <node id='-147487' action='modify' lat='0.07754' lon='0.03525' />
+  <node id='-147488' action='modify' lat='0.07748' lon='0.03515' />
+  <node id='-147489' action='modify' lat='0.07744' lon='0.0351' />
+  <node id='-147490' action='modify' lat='0.0774' lon='0.03505' />
+  <node id='-147491' action='modify' lat='0.07729' lon='0.03494' />
+  <node id='-147495' action='modify' lat='0.07576' lon='0.03341' />
+  <node id='-147522' action='modify' lat='0.07575' lon='0.0334' />
+  <node id='-147524' action='modify' lat='0.0757' lon='0.03336' />
+  <node id='-147525' action='modify' lat='0.07565' lon='0.03332' />
+  <node id='-147526' action='modify' lat='0.07554' lon='0.03326' />
+  <node id='-147527' action='modify' lat='0.07549' lon='0.03323' />
+  <node id='-147529' action='modify' lat='0.07545' lon='0.03319' />
+  <node id='-147530' action='modify' lat='0.07496' lon='0.03269' />
+  <node id='-147533' action='modify' lat='0.07788' lon='0.0357' />
+  <node id='-147534' action='modify' lat='0.07784' lon='0.03566' />
+  <node id='-147535' action='modify' lat='0.0778' lon='0.03561' />
+  <node id='-147536' action='modify' lat='0.07775' lon='0.0355' />
+  <node id='-147537' action='modify' lat='0.07771' lon='0.03545' />
+  <node id='-147538' action='modify' lat='0.07767' lon='0.03541' />
+  <node id='-147555' action='modify' lat='0.07508' lon='0.03291' />
+  <node id='-147557' action='modify' lat='0.07513' lon='0.03294' />
+  <node id='-147558' action='modify' lat='0.07518' lon='0.03298' />
+  <node id='-147559' action='modify' lat='0.07528' lon='0.03304' />
+  <node id='-147560' action='modify' lat='0.07533' lon='0.03308' />
+  <node id='-147561' action='modify' lat='0.07538' lon='0.03311' />
+  <node id='-147568' action='modify' lat='0.07533' lon='0.03315' />
+  <node id='-147569' action='modify' lat='0.0753' lon='0.03311' />
+  <node id='-147570' action='modify' lat='0.07526' lon='0.03306' />
+  <node id='-147571' action='modify' lat='0.0752' lon='0.03296' />
+  <node id='-147572' action='modify' lat='0.07516' lon='0.03291' />
+  <node id='-147573' action='modify' lat='0.07512' lon='0.03286' />
+  <way id='-118421' action='modify'>
+    <nd ref='-144118' />
+    <nd ref='-144119' />
+    <tag k='name' v='10m' />
+  </way>
+  <way id='-118422' action='modify'>
+    <nd ref='-144123' />
+    <nd ref='-144122' />
+    <nd ref='-144121' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条団地引き上げ線→1番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='spur' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118423' action='modify'>
+    <nd ref='-144121' />
+    <nd ref='-144120' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条団地引き上げ線' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='spur' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118424' action='modify'>
+    <nd ref='-144124' />
+    <nd ref='-144123' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条団地1番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118425' action='modify'>
+    <nd ref='-144162' />
+    <nd ref='-144163' />
+    <nd ref='-144164' />
+    <nd ref='-144165' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='三条マンション１番乗り場→三条２番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118426' action='modify'>
+    <nd ref='-144125' />
+    <nd ref='-144124' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='団地線上り：三条団地1番乗り場→三条マンション１番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118427' action='modify'>
+    <nd ref='-144128' />
+    <nd ref='-144127' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条団地2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118428' action='modify'>
+    <nd ref='-144122' />
+    <nd ref='-144131' />
+    <nd ref='-144130' />
+    <nd ref='-144129' />
+    <nd ref='-144127' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条団地2番乗り場→三条団地引き上げ線' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118429' action='modify'>
+    <nd ref='-144278' />
+    <nd ref='-144277' />
+    <nd ref='-144276' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='三条１番乗り場→三条マンション2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118430' action='modify'>
+    <nd ref='-144132' />
+    <nd ref='-144128' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション2番乗り場→三条団地2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118431' action='modify'>
+    <nd ref='-144137' />
+    <nd ref='-144134' />
+    <nd ref='-144135' />
+    <nd ref='-144136' />
+    <nd ref='-144137' />
+    <tag k='name' v='鉄道博物館' />
+    <tag k='opening_hours' v='24Hours' />
+    <tag k='operator' v='鉄街鉄道' />
+    <tag k='tourism' v='museum' />
+    <tag k='wheelchair' v='True' />
+  </way>
+  <way id='-118432' action='modify'>
+    <nd ref='-144141' />
+    <nd ref='-144138' />
+    <nd ref='-144139' />
+    <nd ref='-144140' />
+    <nd ref='-144141' />
+    <tag k='name' v='鉄道博物館４' />
+    <tag k='opening_hours' v='24Hours' />
+    <tag k='operator' v='鉄街鉄道' />
+    <tag k='tourism' v='museum' />
+    <tag k='wheelchair' v='True' />
+  </way>
+  <way id='-118433' action='modify'>
+    <nd ref='-144145' />
+    <nd ref='-144144' />
+    <nd ref='-144143' />
+    <nd ref='-144142' />
+    <nd ref='-144145' />
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='name' v='三条団地１番乗り場' />
+    <tag k='passenger_information_display' v='yes' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118434' action='modify'>
+    <nd ref='-144149' />
+    <nd ref='-144148' />
+    <nd ref='-144147' />
+    <nd ref='-144146' />
+    <nd ref='-144149' />
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='name' v='三条団地2番乗り場' />
+    <tag k='passenger_information_display' v='yes' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118435' action='modify'>
+    <nd ref='-144148' />
+    <nd ref='-144144' />
+    <nd ref='-144143' />
+    <nd ref='-144147' />
+    <nd ref='-144148' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='三条団地駅' />
+    <tag k='operator' v='鉄街鉄道' />
+    <tag k='public_transport' v='station' />
+  </way>
+  <way id='-118436' action='modify'>
+    <nd ref='-144153' />
+    <nd ref='-144150' />
+    <nd ref='-144151' />
+    <nd ref='-144152' />
+    <nd ref='-144153' />
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='name' v='三条マンション1番乗り場' />
+    <tag k='passenger_information_display' v='yes' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118437' action='modify'>
+    <nd ref='-144157' />
+    <nd ref='-144156' />
+    <nd ref='-144155' />
+    <nd ref='-144154' />
+    <nd ref='-144157' />
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='name' v='三条マンション2番乗り場' />
+    <tag k='passenger_information_display' v='yes' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118438' action='modify'>
+    <nd ref='-144155' />
+    <nd ref='-144152' />
+    <nd ref='-144151' />
+    <nd ref='-144156' />
+    <nd ref='-144155' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='三条マンション駅' />
+    <tag k='operator' v='鉄街鉄道' />
+    <tag k='public_transport' v='station' />
+  </way>
+  <way id='-118439' action='modify'>
+    <nd ref='-144126' />
+    <nd ref='-144125' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション１番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118440' action='modify'>
+    <nd ref='-144126' />
+    <nd ref='-144162' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション１番乗り場→三条２番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118441' action='modify'>
+    <nd ref='-144165' />
+    <nd ref='-144166' />
+    <nd ref='-144284' />
+    <nd ref='-144167' />
+    <nd ref='-144285' />
+    <nd ref='-144168' />
+    <nd ref='-144169' />
+    <nd ref='-144290' />
+    <nd ref='-144170' />
+    <nd ref='-144171' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='三条マンション１番乗り場→三条２番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118442' action='modify'>
+    <nd ref='-144171' />
+    <nd ref='-144172' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='三条マンション１番乗り場→三条２番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118443' action='modify'>
+    <nd ref='-144173' />
+    <nd ref='-144174' />
+    <nd ref='-144175' />
+    <nd ref='-144176' />
+    <nd ref='-144177' />
+    <nd ref='-144178' />
+    <nd ref='-144179' />
+    <nd ref='-144180' />
+    <nd ref='-144181' />
+    <nd ref='-144182' />
+    <nd ref='-144183' />
+    <nd ref='-144184' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='三条２番乗り場→東大郎駅' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118444' action='modify'>
+    <nd ref='-144172' />
+    <nd ref='-144173' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='三条２番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118445' action='modify'>
+    <nd ref='-144185' />
+    <nd ref='-144186' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション3番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118446' action='modify'>
+    <nd ref='-144186' />
+    <nd ref='-144199' />
+    <nd ref='-144187' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション3番乗り場～KD2' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118447' action='modify'>
+    <nd ref='-144187' />
+    <nd ref='-144188' />
+    <tag k='cutting' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション3番乗り場～KD2' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118448' action='modify'>
+    <nd ref='-144188' />
+    <nd ref='-144189' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション3番乗り場～KD2' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118449' action='modify'>
+    <nd ref='-144189' />
+    <nd ref='-144190' />
+    <tag k='cutting' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション3番乗り場～KD2' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118450' action='modify'>
+    <nd ref='-144190' />
+    <nd ref='-144191' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション3番乗り場～KD2' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118451' action='modify'>
+    <nd ref='-144191' />
+    <nd ref='-144192' />
+    <tag k='cutting' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション3番乗り場～KD2' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118452' action='modify'>
+    <nd ref='-144192' />
+    <nd ref='-144193' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション3番乗り場～KD2' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118453' action='modify'>
+    <nd ref='-144194' />
+    <nd ref='-144261' />
+    <nd ref='-145709' />
+    <nd ref='-144262' />
+    <nd ref='-144263' />
+    <nd ref='-145564' />
+    <nd ref='-144264' />
+    <nd ref='-144265' />
+    <nd ref='-144266' />
+    <nd ref='-144267' />
+    <nd ref='-144268' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='KD2→郊外団地' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118454' action='modify'>
+    <nd ref='-144198' />
+    <nd ref='-144195' />
+    <nd ref='-144196' />
+    <nd ref='-144197' />
+    <nd ref='-144198' />
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='name' v='KD2駅乗り場' />
+    <tag k='passenger_information_display' v='yes' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='tactile_paving' v='no' />
+    <tag k='wheelchair' v='no' />
+  </way>
+  <way id='-118455' action='modify'>
+    <nd ref='-144199' />
+    <nd ref='-144200' />
+    <nd ref='-144201' />
+    <nd ref='-144202' />
+    <nd ref='-144203' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション4番乗り場～郊外団地鉄道本線' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118456' action='modify'>
+    <nd ref='-144203' />
+    <nd ref='-144204' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション4番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118457' action='modify'>
+    <nd ref='-144205' />
+    <nd ref='-144206' />
+    <nd ref='-144231' />
+    <nd ref='-144207' />
+    <nd ref='-144208' />
+    <nd ref='-144209' />
+    <nd ref='-144210' />
+    <nd ref='-144211' />
+    <nd ref='-144212' />
+    <nd ref='-144213' />
+    <nd ref='-144214' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='oneway' v='no' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118458' action='modify'>
+    <nd ref='-144227' />
+    <nd ref='-144226' />
+    <nd ref='-144225' />
+    <nd ref='-144215' />
+    <nd ref='-144214' />
+    <nd ref='-144216' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='oneway' v='no' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118459' action='modify'>
+    <nd ref='-144224' />
+    <nd ref='-144218' />
+    <nd ref='-144217' />
+    <nd ref='-144219' />
+    <nd ref='-144220' />
+    <nd ref='-144221' />
+    <nd ref='-144222' />
+    <nd ref='-144223' />
+    <nd ref='-144224' />
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='name' v='三条マンション駅郊外団地鉄道乗り場' />
+    <tag k='passenger_information_display' v='yes' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118460' action='modify'>
+    <nd ref='-144228' />
+    <nd ref='-144227' />
+    <nd ref='-144229' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='oneway' v='no' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118461' action='modify'>
+    <nd ref='-144218' />
+    <nd ref='-144222' />
+  </way>
+  <way id='-118462' action='modify'>
+    <nd ref='-144231' />
+    <nd ref='-144232' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='oneway' v='no' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118463' action='modify'>
+    <nd ref='-144232' />
+    <nd ref='-144233' />
+    <nd ref='-144234' />
+    <nd ref='-144235' />
+    <nd ref='-144236' />
+    <nd ref='-144237' />
+    <nd ref='-144238' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='layer' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='oneway' v='no' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118464' action='modify'>
+    <nd ref='-144238' />
+    <nd ref='-144239' />
+    <nd ref='-144254' />
+    <nd ref='-144240' />
+    <nd ref='-144241' />
+    <nd ref='-144242' />
+    <nd ref='-144371' />
+    <nd ref='-144243' />
+    <nd ref='-144244' />
+    <nd ref='-144245' />
+    <nd ref='-144260' />
+    <nd ref='-144246' />
+    <nd ref='-144247' />
+    <nd ref='-144248' />
+    <nd ref='-144249' />
+    <nd ref='-144250' />
+    <nd ref='-144251' />
+    <nd ref='-144252' />
+    <nd ref='-144253' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='layer' v='0' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='oneway' v='no' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118465' action='modify'>
+    <nd ref='-144254' />
+    <nd ref='-144255' />
+    <nd ref='-144256' />
+    <nd ref='-144257' />
+    <nd ref='-144258' />
+    <nd ref='-144259' />
+    <nd ref='-144260' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='oneway' v='no' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118466' action='modify'>
+    <nd ref='-144193' />
+    <nd ref='-144194' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='KD2' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118467' action='modify'>
+    <nd ref='-144268' />
+    <nd ref='-144269' />
+    <nd ref='-144305' />
+    <nd ref='-144270' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='KD2→郊外団地' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118468' action='modify'>
+    <nd ref='-144270' />
+    <nd ref='-144271' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='郊外団地5番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118469' action='modify'>
+    <nd ref='-144271' />
+    <nd ref='-147162' />
+    <nd ref='-144272' />
+    <nd ref='-144273' />
+    <nd ref='-144274' />
+    <nd ref='-144333' />
+    <nd ref='-144275' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='郊外団地5番乗り場→北郊外団地１番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118470' action='modify'>
+    <nd ref='-144133' />
+    <nd ref='-144132' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条マンション2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118471' action='modify'>
+    <nd ref='-144276' />
+    <nd ref='-144133' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='三条１番乗り場→三条マンション2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118472' action='modify'>
+    <nd ref='-144289' />
+    <nd ref='-144288' />
+    <nd ref='-144287' />
+    <nd ref='-144286' />
+    <nd ref='-144281' />
+    <nd ref='-144282' />
+    <nd ref='-144280' />
+    <nd ref='-144283' />
+    <nd ref='-144279' />
+    <nd ref='-144278' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='三条１番乗り場→三条マンション2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118473' action='modify'>
+    <nd ref='-144304' />
+    <nd ref='-144303' />
+    <nd ref='-144302' />
+    <nd ref='-144301' />
+    <nd ref='-144300' />
+    <nd ref='-144299' />
+    <nd ref='-144298' />
+    <nd ref='-144297' />
+    <nd ref='-144296' />
+    <nd ref='-144295' />
+    <nd ref='-144294' />
+    <nd ref='-144293' />
+    <nd ref='-144292' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='東大郎→三条１番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118474' action='modify'>
+    <nd ref='-144291' />
+    <nd ref='-144289' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='三条１番乗り場→三条マンション2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118475' action='modify'>
+    <nd ref='-144292' />
+    <nd ref='-144291' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='三条１番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118476' action='modify'>
+    <nd ref='-144305' />
+    <nd ref='-144306' />
+    <nd ref='-144307' />
+    <nd ref='-144308' />
+    <nd ref='-144309' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='郊外団地6番乗り場→KD2' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118477' action='modify'>
+    <nd ref='-144310' />
+    <nd ref='-146137' />
+    <nd ref='-144311' />
+    <nd ref='-144312' />
+    <nd ref='-144313' />
+    <nd ref='-144337' />
+    <nd ref='-144336' />
+    <nd ref='-144346' />
+    <nd ref='-144314' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='北郊外団地2番乗り場→郊外団地6番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118478' action='modify'>
+    <nd ref='-144309' />
+    <nd ref='-144310' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='郊外団地6番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118479' action='modify'>
+    <nd ref='-144314' />
+    <nd ref='-144315' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='北郊外団地2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118480' action='modify'>
+    <nd ref='-144316' />
+    <nd ref='-144317' />
+    <nd ref='-144319' />
+    <nd ref='-144318' />
+    <nd ref='-144316' />
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='name' v='北郊外団地1・2番乗り場' />
+    <tag k='passenger_information_display' v='yes' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118481' action='modify'>
+    <nd ref='-144320' />
+    <nd ref='-145995' />
+    <nd ref='-146026' />
+    <nd ref='-144358' />
+    <nd ref='-144359' />
+    <nd ref='-144360' />
+    <nd ref='-144361' />
+    <nd ref='-144367' />
+    <nd ref='-144362' />
+    <nd ref='-144363' />
+    <nd ref='-144364' />
+    <nd ref='-144365' />
+    <nd ref='-144366' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='北郊外団地１番乗り場→三条山登山口信号場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118482' action='modify'>
+    <nd ref='-144324' />
+    <nd ref='-144326' />
+    <nd ref='-144325' />
+    <nd ref='-144323' />
+    <nd ref='-144324' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='郊外団地5番乗り場' />
+    <tag k='public_transport' v='platform' />
+  </way>
+  <way id='-118483' action='modify'>
+    <nd ref='-144330' />
+    <nd ref='-144327' />
+    <nd ref='-144328' />
+    <nd ref='-144329' />
+    <nd ref='-144330' />
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='郊外団地6番乗り場' />
+    <tag k='passenger_information_display' v='yes' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118484' action='modify'>
+    <nd ref='-144333' />
+    <nd ref='-144334' />
+    <nd ref='-144335' />
+    <nd ref='-144336' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='郊外団地→北郊外団地2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118485' action='modify'>
+    <nd ref='-144337' />
+    <nd ref='-144338' />
+    <nd ref='-144339' />
+    <nd ref='-144340' />
+    <nd ref='-144343' />
+    <nd ref='-144341' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='北郊外団地3番乗り場→郊外団地' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118486' action='modify'>
+    <nd ref='-144341' />
+    <nd ref='-144342' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='北郊外団地3番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118487' action='modify'>
+    <nd ref='-144346' />
+    <nd ref='-144345' />
+    <nd ref='-144344' />
+    <nd ref='-144343' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='北郊外団地2→北郊外団地3番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118488' action='modify'>
+    <nd ref='-144339' />
+    <nd ref='-144348' />
+    <nd ref='-144349' />
+    <nd ref='-144350' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='北郊外団地4番乗り場→郊外団地' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118489' action='modify'>
+    <nd ref='-144351' />
+    <nd ref='-145964' />
+    <nd ref='-145965' />
+    <nd ref='-144370' />
+    <nd ref='-144369' />
+    <nd ref='-144368' />
+    <nd ref='-144367' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='三条山登山口信号場→北郊外団地4番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118490' action='modify'>
+    <nd ref='-144355' />
+    <nd ref='-144354' />
+    <nd ref='-144353' />
+    <nd ref='-144352' />
+    <nd ref='-144355' />
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='name' v='北郊外団地3・4番乗り場' />
+    <tag k='passenger_information_display' v='yes' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118491' action='modify'>
+    <nd ref='-144275' />
+    <nd ref='-144320' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='北郊外団地１番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118492' action='modify'>
+    <nd ref='-144350' />
+    <nd ref='-144351' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='北郊外団地4番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118493' action='modify'>
+    <nd ref='-144371' />
+    <nd ref='-144386' />
+    <nd ref='-144372' />
+    <nd ref='-144373' />
+    <nd ref='-144374' />
+    <nd ref='-144375' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='oneway' v='no' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118494' action='modify'>
+    <nd ref='-144379' />
+    <nd ref='-144376' />
+    <nd ref='-144377' />
+    <nd ref='-144378' />
+    <nd ref='-144379' />
+    <tag k='name' v='鉄道博物館３' />
+    <tag k='opening_hours' v='24hours' />
+    <tag k='operator' v='鉄街地方鉄道' />
+    <tag k='tourism' v='museum' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118495' action='modify'>
+    <nd ref='-144383' />
+    <nd ref='-144380' />
+    <nd ref='-144381' />
+    <nd ref='-144382' />
+    <nd ref='-144383' />
+    <tag k='name' v='鉄道博物館２' />
+    <tag k='opening_hours' v='24hours' />
+    <tag k='operator' v='鉄街地方鉄道' />
+    <tag k='tourism' v='museum' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118496' action='modify'>
+    <nd ref='-144385' />
+    <nd ref='-144404' />
+    <nd ref='-144384' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118497' action='modify'>
+    <nd ref='-144386' />
+    <nd ref='-144387' />
+    <nd ref='-144388' />
+    <nd ref='-144389' />
+    <nd ref='-144390' />
+    <nd ref='-144391' />
+    <nd ref='-144392' />
+    <nd ref='-144393' />
+    <nd ref='-144394' />
+    <nd ref='-144395' />
+    <nd ref='-144396' />
+    <nd ref='-144397' />
+    <nd ref='-144398' />
+    <nd ref='-144399' />
+    <nd ref='-144400' />
+    <nd ref='-144401' />
+    <nd ref='-144402' />
+    <nd ref='-144403' />
+    <nd ref='-144404' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118498' action='modify'>
+    <nd ref='-144408' />
+    <nd ref='-144405' />
+    <nd ref='-144406' />
+    <nd ref='-144407' />
+    <nd ref='-144408' />
+    <tag k='name' v='郊外団地鉄道本社' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='24hours' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118499' action='modify'>
+    <nd ref='-144411' />
+    <nd ref='-144410' />
+    <nd ref='-144409' />
+    <nd ref='-144412' />
+    <nd ref='-144411' />
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='三条２番乗り場' />
+    <tag k='passenger_information_display' v='yes' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118500' action='modify'>
+    <nd ref='-144416' />
+    <nd ref='-144413' />
+    <nd ref='-144414' />
+    <nd ref='-144415' />
+    <nd ref='-144416' />
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='三条1番乗り場' />
+    <tag k='passenger_information_display' v='yes' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118501' action='modify'>
+    <nd ref='-144411' />
+    <nd ref='-144414' />
+    <nd ref='-144415' />
+    <nd ref='-144410' />
+    <nd ref='-144411' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='三条駅' />
+    <tag k='operator' v='鉄街鉄道' />
+    <tag k='public_transport' v='station' />
+  </way>
+  <way id='-118502' action='modify'>
+    <nd ref='-144420' />
+    <nd ref='-144419' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118503' action='modify'>
+    <nd ref='-144424' />
+    <nd ref='-144421' />
+    <nd ref='-144422' />
+    <nd ref='-144423' />
+    <nd ref='-144424' />
+    <tag k='name' v='観光温泉駅前店' />
+    <tag k='opening_hours' v='24hours' />
+    <tag k='shop' v='convenience' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118504' action='modify'>
+    <nd ref='-144428' />
+    <nd ref='-144425' />
+    <nd ref='-144426' />
+    <nd ref='-144427' />
+    <nd ref='-144428' />
+    <tag k='internet_access' v='yes' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='name' v='観光温泉駅前民宿' />
+    <tag k='smoking' v='no' />
+    <tag k='tourism' v='hotel' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118505' action='modify'>
+    <nd ref='-144432' />
+    <nd ref='-144429' />
+    <nd ref='-144430' />
+    <nd ref='-144431' />
+    <nd ref='-144432' />
+    <tag k='amenity' v='public_bath' />
+    <tag k='bath:type' v='sento' />
+    <tag k='female' v='yes' />
+    <tag k='male' v='yes' />
+    <tag k='opening_hours' v='24hours' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118506' action='modify'>
+    <nd ref='-144433' />
+    <nd ref='-144435' />
+    <nd ref='-144434' />
+    <nd ref='-144436' />
+    <nd ref='-144433' />
+    <tag k='plant:source' v='geothermal' />
+    <tag k='power' v='plant' />
+  </way>
+  <way id='-118507' action='modify'>
+    <nd ref='-144442' />
+    <nd ref='-144441' />
+    <nd ref='-144440' />
+    <nd ref='-144439' />
+    <nd ref='-144438' />
+    <nd ref='-144464' />
+    <nd ref='-144437' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118508' action='modify'>
+    <nd ref='-144446' />
+    <nd ref='-144443' />
+    <nd ref='-144444' />
+    <nd ref='-144445' />
+    <nd ref='-144446' />
+    <tag k='internet_access' v='yes' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='name' v='観光温泉駅温泉宿' />
+    <tag k='smoking' v='no' />
+    <tag k='tourism' v='hotel' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118509' action='modify'>
+    <nd ref='-144450' />
+    <nd ref='-144447' />
+    <nd ref='-144448' />
+    <nd ref='-144449' />
+    <nd ref='-144450' />
+    <tag k='opening_hours' v='24hours' />
+    <tag k='shop' v='doityourself' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118510' action='modify'>
+    <nd ref='-144454' />
+    <nd ref='-144451' />
+    <nd ref='-144452' />
+    <nd ref='-144453' />
+    <nd ref='-144454' />
+    <tag k='name' v='観光山前駅上小屋' />
+    <tag k='smoking' v='no' />
+    <tag k='tourism' v='alpine_hut' />
+  </way>
+  <way id='-118511' action='modify'>
+    <nd ref='-144458' />
+    <nd ref='-144455' />
+    <nd ref='-144456' />
+    <nd ref='-144457' />
+    <nd ref='-144458' />
+    <tag k='name' v='中海岸駅前' />
+    <tag k='opening_hours' v='24hours' />
+    <tag k='shop' v='convenience' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118512' action='modify'>
+    <nd ref='-144460' />
+    <nd ref='-144461' />
+    <nd ref='-144459' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118513' action='modify'>
+    <nd ref='-144464' />
+    <nd ref='-144463' />
+    <nd ref='-144462' />
+    <nd ref='-144461' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='sidewalk' v='both' />
+    <tag k='smoothness' v='intermediate' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='-118514' action='modify'>
+    <nd ref='-144366' />
+    <nd ref='-144465' />
+    <nd ref='-144466' />
+    <nd ref='-144467' />
+    <nd ref='-144468' />
+    <nd ref='-144469' />
+    <nd ref='-144470' />
+    <nd ref='-144471' />
+    <nd ref='-144472' />
+    <nd ref='-144473' />
+    <nd ref='-144474' />
+    <nd ref='-144475' />
+    <nd ref='-144476' />
+    <nd ref='-144477' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='北郊外団地１番乗り場→三条山登山口信号場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118515' action='modify'>
+    <nd ref='-144477' />
+    <nd ref='-144478' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='8' />
+    <tag k='name' v='北郊外団地１番乗り場→三条山登山口信号場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118516' action='modify'>
+    <nd ref='-144478' />
+    <nd ref='-144479' />
+    <nd ref='-144480' />
+    <nd ref='-144481' />
+    <nd ref='-144482' />
+    <nd ref='-144483' />
+    <nd ref='-144484' />
+    <nd ref='-144485' />
+    <nd ref='-144486' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='8' />
+    <tag k='name' v='北郊外団地１番乗り場→三条山登山口信号場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118517' action='modify'>
+    <nd ref='-144486' />
+    <nd ref='-144487' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='8' />
+    <tag k='name' v='北郊外団地１番乗り場→三条山登山口信号場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118518' action='modify'>
+    <nd ref='-144487' />
+    <nd ref='-144488' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='8' />
+    <tag k='name' v='北郊外団地１番乗り場→三条山登山口信号場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118519' action='modify'>
+    <nd ref='-144488' />
+    <nd ref='-144489' />
+    <nd ref='-144490' />
+    <nd ref='-144491' />
+    <nd ref='-144492' />
+    <nd ref='-144493' />
+    <nd ref='-144494' />
+    <nd ref='-144495' />
+    <nd ref='-144509' />
+    <nd ref='-144496' />
+    <nd ref='-144497' />
+    <nd ref='-144498' />
+    <nd ref='-144500' />
+    <nd ref='-144499' />
+    <nd ref='-144501' />
+    <nd ref='-144502' />
+    <nd ref='-144503' />
+    <nd ref='-144504' />
+    <nd ref='-144505' />
+    <nd ref='-144506' />
+    <nd ref='-144507' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='8' />
+    <tag k='name' v='北郊外団地１番乗り場→三条山登山口信号場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118520' action='modify'>
+    <nd ref='-144507' />
+    <nd ref='-144508' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='8' />
+    <tag k='name' v='三条山登山口信号場1番線' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118521' action='modify'>
+    <nd ref='-144508' />
+    <nd ref='-144522' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='8' />
+    <tag k='name' v='三条山登山口信号場1番線→三条山中信号場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118522' action='modify'>
+    <nd ref='-144509' />
+    <nd ref='-144510' />
+    <nd ref='-144511' />
+    <nd ref='-144512' />
+    <nd ref='-144513' />
+    <nd ref='-144514' />
+    <nd ref='-144515' />
+    <nd ref='-144516' />
+    <nd ref='-144517' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='8' />
+    <tag k='name' v='三条山登山口信号場2番線→北郊外団地駅' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118523' action='modify'>
+    <nd ref='-144518' />
+    <nd ref='-144519' />
+    <nd ref='-144520' />
+    <nd ref='-144521' />
+    <nd ref='-144522' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='8' />
+    <tag k='name' v='三条山中信号場→三条山登山口信号場2番線' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118524' action='modify'>
+    <nd ref='-144517' />
+    <nd ref='-144518' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='8' />
+    <tag k='name' v='三条山登山口信号場2番線' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118525' action='modify'>
+    <nd ref='-144522' />
+    <nd ref='-144523' />
+    <nd ref='-144524' />
+    <nd ref='-144525' />
+    <nd ref='-144526' />
+    <nd ref='-144527' />
+    <nd ref='-144528' />
+    <nd ref='-144529' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='8' />
+    <tag k='name' v='三条山登山口信号場1番線→三条山中信号場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118526' action='modify'>
+    <nd ref='-144529' />
+    <nd ref='-144530' />
+    <nd ref='-144531' />
+    <nd ref='-144532' />
+    <nd ref='-144533' />
+    <nd ref='-144534' />
+    <nd ref='-144535' />
+    <nd ref='-144536' />
+    <nd ref='-144537' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='18' />
+    <tag k='name' v='三条山登山口信号場1番線→三条山中信号場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118527' action='modify'>
+    <nd ref='-144537' />
+    <nd ref='-144538' />
+    <nd ref='-144539' />
+    <nd ref='-144540' />
+    <nd ref='-144541' />
+    <nd ref='-144542' />
+    <nd ref='-144543' />
+    <nd ref='-144544' />
+    <nd ref='-144545' />
+    <nd ref='-144546' />
+    <nd ref='-144547' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='18' />
+    <tag k='name' v='三条山登山口信号場1番線→三条山中信号場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118528' action='modify'>
+    <nd ref='-144547' />
+    <nd ref='-144565' />
+    <nd ref='-144548' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='18' />
+    <tag k='name' v='三条山登山口信号場1番線→三条山中信号場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118529' action='modify'>
+    <nd ref='-144548' />
+    <nd ref='-144549' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='18' />
+    <tag k='name' v='三条山中信号場1番線' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118530' action='modify'>
+    <nd ref='-144549' />
+    <nd ref='-144574' />
+    <nd ref='-144550' />
+    <nd ref='-144551' />
+    <nd ref='-144552' />
+    <nd ref='-144553' />
+    <nd ref='-144554' />
+    <nd ref='-144555' />
+    <nd ref='-144556' />
+    <nd ref='-144557' />
+    <nd ref='-144558' />
+    <nd ref='-144559' />
+    <nd ref='-144560' />
+    <nd ref='-144561' />
+    <nd ref='-144562' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='18' />
+    <tag k='name' v='三条山中信号場1番線→三条山中駅' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118531' action='modify'>
+    <nd ref='-144562' />
+    <nd ref='-144563' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='18' />
+    <tag k='name' v='三条山中信号場1番線→三条山中駅' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118532' action='modify'>
+    <nd ref='-144564' />
+    <nd ref='-144575' />
+    <nd ref='-144576' />
+    <nd ref='-144577' />
+    <nd ref='-144578' />
+    <nd ref='-144579' />
+    <nd ref='-144580' />
+    <nd ref='-144581' />
+    <nd ref='-144582' />
+    <nd ref='-144583' />
+    <nd ref='-144584' />
+    <nd ref='-144585' />
+    <nd ref='-144586' />
+    <nd ref='-144587' />
+    <nd ref='-144588' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='18' />
+    <tag k='name' v='三条山中信号場1番線→三条山中駅' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118533' action='modify'>
+    <nd ref='-144565' />
+    <nd ref='-144566' />
+    <nd ref='-144567' />
+    <nd ref='-144568' />
+    <nd ref='-144569' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='18' />
+    <tag k='name' v='三条山中信号場2番線→三条山登山口信号場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118534' action='modify'>
+    <nd ref='-144570' />
+    <nd ref='-144571' />
+    <nd ref='-144572' />
+    <nd ref='-144573' />
+    <nd ref='-144574' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='18' />
+    <tag k='name' v='三条山中駅→三条山中信号場2番線' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118535' action='modify'>
+    <nd ref='-144569' />
+    <nd ref='-144570' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='18' />
+    <tag k='name' v='三条山中信号場2番線' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118536' action='modify'>
+    <nd ref='-144563' />
+    <nd ref='-144564' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='18' />
+    <tag k='name' v='三条山中信号場1番線→三条山中駅' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118537' action='modify'>
+    <nd ref='-144588' />
+    <nd ref='-144589' />
+    <nd ref='-144590' />
+    <nd ref='-144591' />
+    <nd ref='-144597' />
+    <nd ref='-144592' />
+    <nd ref='-144593' />
+    <nd ref='-144594' />
+    <nd ref='-144595' />
+    <nd ref='-144596' />
+    <nd ref='-144598' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='22' />
+    <tag k='name' v='三条山中信号場1番線→三条山中駅' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118538' action='modify'>
+    <nd ref='-144598' />
+    <nd ref='-144657' />
+    <nd ref='-144599' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='22' />
+    <tag k='name' v='三条山中信号場1番線→三条山中駅' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118539' action='modify'>
+    <nd ref='-144600' />
+    <nd ref='-144649' />
+    <nd ref='-144601' />
+    <nd ref='-144602' />
+    <nd ref='-144603' />
+    <nd ref='-144604' />
+    <nd ref='-144605' />
+    <nd ref='-144606' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='22' />
+    <tag k='name' v='三条山上駅→三条山中駅2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118540' action='modify'>
+    <nd ref='-144599' />
+    <nd ref='-144600' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='22' />
+    <tag k='name' v='三条山中駅2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118541' action='modify'>
+    <nd ref='-144606' />
+    <nd ref='-144608' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='23' />
+    <tag k='name' v='三条山上駅→三条山中駅2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118542' action='modify'>
+    <nd ref='-144608' />
+    <nd ref='-144607' />
+    <nd ref='-144609' />
+    <tag k='cutting' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='24' />
+    <tag k='name' v='三条山上駅→三条山中駅2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118543' action='modify'>
+    <nd ref='-144609' />
+    <nd ref='-144610' />
+    <nd ref='-144611' />
+    <nd ref='-144612' />
+    <nd ref='-144613' />
+    <nd ref='-144614' />
+    <nd ref='-144615' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='24' />
+    <tag k='name' v='三条山上駅→三条山中駅2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118544' action='modify'>
+    <nd ref='-144615' />
+    <nd ref='-144616' />
+    <nd ref='-144617' />
+    <nd ref='-144618' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='24' />
+    <tag k='name' v='三条山上駅→三条山中駅2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118545' action='modify'>
+    <nd ref='-144618' />
+    <nd ref='-144619' />
+    <nd ref='-144620' />
+    <nd ref='-144621' />
+    <nd ref='-144622' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='24' />
+    <tag k='name' v='三条山上駅→三条山中駅2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118546' action='modify'>
+    <nd ref='-144622' />
+    <nd ref='-144623' />
+    <nd ref='-144624' />
+    <nd ref='-144625' />
+    <nd ref='-144626' />
+    <nd ref='-144627' />
+    <nd ref='-144628' />
+    <nd ref='-144629' />
+    <nd ref='-144630' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='24' />
+    <tag k='name' v='三条山上駅→三条山中駅2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118547' action='modify'>
+    <nd ref='-144630' />
+    <nd ref='-144643' />
+    <nd ref='-144631' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='24' />
+    <tag k='name' v='三条山上駅→三条山中駅2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118548' action='modify'>
+    <nd ref='-144631' />
+    <nd ref='-144632' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='24' />
+    <tag k='name' v='三条山上駅1番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118549' action='modify'>
+    <nd ref='-144634' />
+    <nd ref='-144633' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='layer' v='24' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='45' />
+    <tag k='noname' v='yes' />
+    <tag k='sidewalk' v='both' />
+  </way>
+  <way id='-118550' action='modify'>
+    <nd ref='-144638' />
+    <nd ref='-144635' />
+    <nd ref='-144636' />
+    <nd ref='-144637' />
+    <nd ref='-144638' />
+    <tag k='internet_access' v='yes' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='layer' v='24' />
+    <tag k='name' v='三条山上駅温泉宿' />
+    <tag k='smoking' v='no' />
+    <tag k='tourism' v='hotel' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118551' action='modify'>
+    <nd ref='-144642' />
+    <nd ref='-144637' />
+    <nd ref='-144638' />
+    <nd ref='-144641' />
+    <nd ref='-144642' />
+    <tag k='internet_access' v='yes' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='name' v='三条山上民宿' />
+    <tag k='smoking' v='no' />
+    <tag k='tourism' v='guest_house' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118552' action='modify'>
+    <nd ref='-144643' />
+    <nd ref='-144644' />
+    <nd ref='-144645' />
+    <nd ref='-144646' />
+    <nd ref='-144647' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='24' />
+    <tag k='name' v='三条山上駅2番乗り場ー三条山中駅' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118553' action='modify'>
+    <nd ref='-144647' />
+    <nd ref='-144648' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='24' />
+    <tag k='name' v='三条山上駅2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118554' action='modify'>
+    <nd ref='-144649' />
+    <nd ref='-144650' />
+    <nd ref='-144651' />
+    <nd ref='-144652' />
+    <nd ref='-144653' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='22' />
+    <tag k='name' v='三条山中駅1番乗り場→三条山上駅' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118555' action='modify'>
+    <nd ref='-144654' />
+    <nd ref='-144655' />
+    <nd ref='-144656' />
+    <nd ref='-144657' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='22' />
+    <tag k='name' v='三条山中信号場→三条山中駅1番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118556' action='modify'>
+    <nd ref='-144653' />
+    <nd ref='-144654' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='22' />
+    <tag k='name' v='三条山中駅1番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-118557' action='modify'>
+    <nd ref='-144661' />
+    <nd ref='-144658' />
+    <nd ref='-144659' />
+    <nd ref='-144660' />
+    <nd ref='-144661' />
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='name' v='三条山上駅1番乗り場' />
+    <tag k='passenger_information_display' v='yes' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118558' action='modify'>
+    <nd ref='-144665' />
+    <nd ref='-144664' />
+    <nd ref='-144663' />
+    <nd ref='-144662' />
+    <nd ref='-144665' />
+    <tag k='bench' v='yes' />
+    <tag k='bin' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='name' v='三条山上駅2番乗り場' />
+    <tag k='passenger_information_display' v='yes' />
+    <tag k='public_transport' v='platform' />
+    <tag k='shelter' v='yes' />
+    <tag k='tactile_paving' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='-118559' action='modify'>
+    <nd ref='-144669' />
+    <nd ref='-144666' />
+    <nd ref='-144667' />
+    <nd ref='-144668' />
+    <nd ref='-144669' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='三条山上駅' />
+    <tag k='operator' v='郊外団地鉄道' />
+    <tag k='public_transport' v='station' />
+  </way>
+  <way id='-118749' action='modify'>
+    <nd ref='-144267' />
+    <nd ref='-144847' />
+    <nd ref='-144849' />
+    <nd ref='-144851' />
+    <nd ref='-144853' />
+    <nd ref='-144855' />
+    <nd ref='-144857' />
+    <nd ref='-144859' />
+    <nd ref='-144861' />
+    <nd ref='-144863' />
+    <nd ref='-144865' />
+    <nd ref='-144867' />
+    <nd ref='-144869' />
+    <nd ref='-144871' />
+    <nd ref='-144873' />
+    <nd ref='-144875' />
+    <nd ref='-144877' />
+    <nd ref='-144879' />
+    <nd ref='-144881' />
+    <nd ref='-144883' />
+    <nd ref='-144885' />
+    <nd ref='-144887' />
+    <nd ref='-144889' />
+    <nd ref='-144891' />
+    <nd ref='-144893' />
+    <nd ref='-144895' />
+    <nd ref='-144897' />
+    <nd ref='-144899' />
+    <nd ref='-144901' />
+    <nd ref='-144903' />
+    <nd ref='-144905' />
+    <nd ref='-144907' />
+    <nd ref='-144909' />
+    <nd ref='-144911' />
+    <nd ref='-144913' />
+    <nd ref='-144915' />
+    <nd ref='-144265' />
+    <tag k='r' v='134' />
+  </way>
+  <way id='-118807' action='modify'>
+    <nd ref='-144272' />
+    <nd ref='-144957' />
+    <nd ref='-144959' />
+    <nd ref='-144961' />
+    <nd ref='-144963' />
+    <nd ref='-144965' />
+    <nd ref='-144967' />
+    <nd ref='-144969' />
+    <nd ref='-144971' />
+    <nd ref='-144273' />
+    <nd ref='-144973' />
+    <nd ref='-144975' />
+    <nd ref='-144977' />
+    <nd ref='-144979' />
+    <nd ref='-144981' />
+    <nd ref='-144983' />
+    <nd ref='-144985' />
+    <nd ref='-144987' />
+    <nd ref='-144274' />
+    <nd ref='-144989' />
+    <nd ref='-144991' />
+    <nd ref='-144993' />
+    <nd ref='-144995' />
+    <nd ref='-144997' />
+    <nd ref='-144999' />
+    <nd ref='-145001' />
+    <nd ref='-145003' />
+    <nd ref='-145005' />
+    <nd ref='-145007' />
+    <nd ref='-145009' />
+    <nd ref='-145011' />
+    <nd ref='-145013' />
+    <nd ref='-145015' />
+    <nd ref='-145017' />
+    <nd ref='-145019' />
+    <nd ref='-145021' />
+    <nd ref='-145023' />
+    <nd ref='-145025' />
+    <nd ref='-145027' />
+    <nd ref='-145029' />
+    <nd ref='-145031' />
+    <nd ref='-145033' />
+    <nd ref='-145035' />
+    <nd ref='-145037' />
+    <nd ref='-145039' />
+    <nd ref='-145041' />
+    <nd ref='-145043' />
+    <nd ref='-145045' />
+    <nd ref='-145047' />
+    <nd ref='-145049' />
+    <nd ref='-145051' />
+    <nd ref='-145053' />
+    <nd ref='-145055' />
+    <nd ref='-145057' />
+    <nd ref='-145059' />
+    <nd ref='-145061' />
+    <nd ref='-145063' />
+    <nd ref='-145065' />
+    <nd ref='-145067' />
+    <nd ref='-145069' />
+    <nd ref='-145071' />
+    <nd ref='-145073' />
+    <nd ref='-145075' />
+    <nd ref='-145077' />
+    <nd ref='-145079' />
+    <nd ref='-145081' />
+    <nd ref='-144272' />
+    <tag k='r' v='236' />
+  </way>
+  <way id='-118843' action='modify'>
+    <nd ref='-144466' />
+    <nd ref='-145451' />
+    <nd ref='-145453' />
+    <nd ref='-144467' />
+    <nd ref='-145455' />
+    <nd ref='-145457' />
+    <nd ref='-144468' />
+    <nd ref='-145459' />
+    <nd ref='-145461' />
+    <nd ref='-145463' />
+    <nd ref='-145465' />
+    <nd ref='-145467' />
+    <nd ref='-145469' />
+    <nd ref='-145471' />
+    <nd ref='-145473' />
+    <nd ref='-145475' />
+    <nd ref='-145477' />
+    <nd ref='-145479' />
+    <nd ref='-145481' />
+    <nd ref='-145483' />
+    <nd ref='-145485' />
+    <nd ref='-145487' />
+    <nd ref='-145489' />
+    <nd ref='-145491' />
+    <nd ref='-145493' />
+    <nd ref='-145495' />
+    <nd ref='-145497' />
+    <nd ref='-145499' />
+    <nd ref='-145501' />
+    <nd ref='-145503' />
+    <nd ref='-145505' />
+    <nd ref='-145507' />
+    <nd ref='-145509' />
+    <nd ref='-145511' />
+    <nd ref='-145513' />
+    <nd ref='-145515' />
+    <nd ref='-145517' />
+    <nd ref='-145519' />
+    <nd ref='-145521' />
+    <nd ref='-145523' />
+    <nd ref='-145525' />
+    <nd ref='-145527' />
+    <nd ref='-145529' />
+    <nd ref='-145531' />
+    <nd ref='-145533' />
+    <nd ref='-145535' />
+    <nd ref='-145537' />
+    <nd ref='-145539' />
+    <nd ref='-145541' />
+    <nd ref='-145543' />
+    <nd ref='-144466' />
+    <tag k='r' v='135' />
+  </way>
+  <way id='-118896' action='modify'>
+    <nd ref='-144263' />
+    <nd ref='-145600' />
+    <nd ref='-145602' />
+    <nd ref='-145604' />
+    <nd ref='-145606' />
+    <nd ref='-145608' />
+    <nd ref='-145610' />
+    <nd ref='-145612' />
+    <nd ref='-145614' />
+    <nd ref='-145616' />
+    <nd ref='-145618' />
+    <nd ref='-145620' />
+    <nd ref='-145622' />
+    <nd ref='-145624' />
+    <nd ref='-145626' />
+    <nd ref='-145628' />
+    <nd ref='-145630' />
+    <nd ref='-145632' />
+    <nd ref='-145634' />
+    <nd ref='-145636' />
+    <nd ref='-145638' />
+    <nd ref='-145640' />
+    <nd ref='-145642' />
+    <nd ref='-145644' />
+    <nd ref='-145646' />
+    <nd ref='-145648' />
+    <nd ref='-145650' />
+    <nd ref='-145652' />
+    <nd ref='-145654' />
+    <nd ref='-145656' />
+    <nd ref='-145658' />
+    <nd ref='-145660' />
+    <nd ref='-145662' />
+    <nd ref='-145664' />
+    <nd ref='-145666' />
+    <nd ref='-145668' />
+    <nd ref='-145670' />
+    <nd ref='-145672' />
+    <nd ref='-145674' />
+    <nd ref='-145676' />
+    <nd ref='-145678' />
+    <nd ref='-145680' />
+    <nd ref='-145682' />
+    <nd ref='-145684' />
+    <nd ref='-145686' />
+    <nd ref='-145688' />
+    <nd ref='-145690' />
+    <nd ref='-145692' />
+    <nd ref='-145694' />
+    <nd ref='-145696' />
+    <nd ref='-145698' />
+    <nd ref='-145700' />
+    <nd ref='-145702' />
+    <nd ref='-145704' />
+    <nd ref='-145706' />
+    <nd ref='-145708' />
+    <nd ref='-144264' />
+    <tag k='r' v='203' />
+  </way>
+  <way id='-118910' action='modify'>
+    <nd ref='-144262' />
+    <nd ref='-145731' />
+    <nd ref='-145733' />
+    <nd ref='-145735' />
+    <nd ref='-145737' />
+    <nd ref='-145739' />
+    <nd ref='-145741' />
+    <nd ref='-145743' />
+    <nd ref='-145745' />
+    <nd ref='-145747' />
+    <nd ref='-145749' />
+    <nd ref='-145751' />
+    <nd ref='-145753' />
+    <nd ref='-145755' />
+    <nd ref='-145757' />
+    <nd ref='-145759' />
+    <nd ref='-145761' />
+    <nd ref='-145763' />
+    <nd ref='-145765' />
+    <nd ref='-145767' />
+    <nd ref='-145769' />
+    <nd ref='-145771' />
+    <nd ref='-145773' />
+    <nd ref='-145775' />
+    <nd ref='-145777' />
+    <nd ref='-145779' />
+    <nd ref='-145781' />
+    <nd ref='-145783' />
+    <nd ref='-145785' />
+    <nd ref='-145787' />
+    <nd ref='-145789' />
+    <nd ref='-145791' />
+    <nd ref='-145793' />
+    <nd ref='-145795' />
+    <nd ref='-145797' />
+    <nd ref='-145799' />
+    <nd ref='-145801' />
+    <nd ref='-145803' />
+    <nd ref='-145805' />
+    <nd ref='-145807' />
+    <nd ref='-145809' />
+    <nd ref='-145811' />
+    <nd ref='-145813' />
+    <nd ref='-145815' />
+    <nd ref='-145817' />
+    <nd ref='-145819' />
+    <nd ref='-145821' />
+    <nd ref='-145823' />
+    <nd ref='-145825' />
+    <nd ref='-145827' />
+    <nd ref='-145829' />
+    <nd ref='-145831' />
+    <nd ref='-145833' />
+    <nd ref='-145835' />
+    <nd ref='-145837' />
+    <nd ref='-145839' />
+    <nd ref='-145841' />
+    <nd ref='-145843' />
+    <nd ref='-145845' />
+    <nd ref='-145847' />
+    <nd ref='-145849' />
+    <nd ref='-145851' />
+    <nd ref='-144261' />
+    <tag k='r' v='250' />
+  </way>
+  <way id='-119058' action='modify'>
+    <nd ref='-144261' />
+    <nd ref='-145723' />
+    <nd ref='-145725' />
+    <nd ref='-145709' />
+    <nd ref='-145727' />
+    <nd ref='-145729' />
+    <nd ref='-144262' />
+    <tag k='r' v='250' />
+  </way>
+  <way id='-119095' action='modify'>
+    <nd ref='-144264' />
+    <nd ref='-145592' />
+    <nd ref='-145594' />
+    <nd ref='-145564' />
+    <nd ref='-145596' />
+    <nd ref='-145598' />
+    <nd ref='-144263' />
+    <tag k='r' v='203' />
+  </way>
+  <way id='-119116' action='modify'>
+    <nd ref='-144265' />
+    <nd ref='-144823' />
+    <nd ref='-144825' />
+    <nd ref='-144827' />
+    <nd ref='-144829' />
+    <nd ref='-144831' />
+    <nd ref='-144833' />
+    <nd ref='-144266' />
+    <nd ref='-144835' />
+    <nd ref='-144837' />
+    <nd ref='-144839' />
+    <nd ref='-144841' />
+    <nd ref='-144843' />
+    <nd ref='-144845' />
+    <nd ref='-144267' />
+    <tag k='r' v='134' />
+  </way>
+  <way id='-119177' action='modify'>
+    <nd ref='-144315' />
+    <nd ref='-146019' />
+    <nd ref='-146001' />
+    <nd ref='-145866' />
+    <nd ref='-145875' />
+    <nd ref='-145876' />
+    <nd ref='-145878' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='北郊外団地2番乗り場→引き上げ線' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119192' action='modify'>
+    <nd ref='-144342' />
+    <nd ref='-145974' />
+    <nd ref='-145959' />
+    <nd ref='-145878' />
+    <nd ref='-145879' />
+    <nd ref='-145890' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='引き上げ線→北郊外団地3番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119222' action='modify'>
+    <nd ref='-145890' />
+    <nd ref='-145896' />
+    <nd ref='-145898' />
+    <nd ref='-145899' />
+    <nd ref='-145900' />
+    <nd ref='-145901' />
+    <nd ref='-145905' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='2' />
+    <tag k='name' v='引き上げ線→北郊外団地3番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119260' action='modify'>
+    <nd ref='-145905' />
+    <nd ref='-145906' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='2' />
+    <tag k='name' v='引き上げ線' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119321' action='modify'>
+    <nd ref='-145959' />
+    <nd ref='-145960' />
+    <nd ref='-145961' />
+    <nd ref='-145962' />
+    <nd ref='-145963' />
+    <nd ref='-145964' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119336' action='modify'>
+    <nd ref='-145965' />
+    <nd ref='-145966' />
+    <nd ref='-145969' />
+    <nd ref='-145971' />
+    <nd ref='-145972' />
+    <nd ref='-145974' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119374' action='modify'>
+    <nd ref='-145995' />
+    <nd ref='-145996' />
+    <nd ref='-145997' />
+    <nd ref='-145998' />
+    <nd ref='-146000' />
+    <nd ref='-146001' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119407' action='modify'>
+    <nd ref='-146019' />
+    <nd ref='-146020' />
+    <nd ref='-146022' />
+    <nd ref='-146023' />
+    <nd ref='-146024' />
+    <nd ref='-146026' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119602' action='modify'>
+    <nd ref='-146137' />
+    <nd ref='-146138' />
+    <nd ref='-146139' />
+    <nd ref='-146140' />
+    <nd ref='-146141' />
+    <nd ref='-146142' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='郊外団地鉄道上り→鉄街本線下り連絡線' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119617' action='modify'>
+    <nd ref='-146142' />
+    <nd ref='-146143' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='郊外団地鉄道上り→鉄街本線下り連絡線' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119621' action='modify'>
+    <nd ref='-146143' />
+    <nd ref='-146145' />
+    <nd ref='-146146' />
+    <nd ref='-146148' />
+    <nd ref='-146149' />
+    <nd ref='-146153' />
+    <nd ref='-146154' />
+    <nd ref='-146194' />
+    <nd ref='-146209' />
+    <nd ref='-146200' />
+    <nd ref='-146201' />
+    <nd ref='-146210' />
+    <nd ref='-146202' />
+    <nd ref='-146234' />
+    <nd ref='-146211' />
+    <nd ref='-146212' />
+    <nd ref='-146214' />
+    <nd ref='-146215' />
+    <nd ref='-146216' />
+    <nd ref='-146217' />
+    <nd ref='-146218' />
+    <nd ref='-146219' />
+    <nd ref='-146220' />
+    <nd ref='-146221' />
+    <nd ref='-146222' />
+    <nd ref='-146223' />
+    <nd ref='-146224' />
+    <nd ref='-146225' />
+    <nd ref='-146226' />
+    <nd ref='-146227' />
+    <nd ref='-146228' />
+    <nd ref='-146229' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地鉄道上り→鉄街本線下り連絡線' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119804' action='modify'>
+    <nd ref='-146234' />
+    <nd ref='-146235' />
+    <nd ref='-146236' />
+    <nd ref='-146247' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地鉄道上り→鉄街本線上り連絡線' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119879' action='modify'>
+    <nd ref='-146247' />
+    <nd ref='-146256' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='郊外団地鉄道上り→鉄街本線上り連絡線' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119928' action='modify'>
+    <nd ref='-146256' />
+    <nd ref='-146283' />
+    <nd ref='-146285' />
+    <nd ref='-146286' />
+    <nd ref='-146287' />
+    <nd ref='-146292' />
+    <nd ref='-146293' />
+    <nd ref='-146294' />
+    <nd ref='-146295' />
+    <nd ref='-146296' />
+    <nd ref='-146298' />
+    <nd ref='-146299' />
+    <nd ref='-146300' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='郊外団地鉄道上り→鉄街本線上り連絡線' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119956' action='modify'>
+    <nd ref='-146300' />
+    <nd ref='-146302' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='郊外団地鉄道上り→鉄街本線上り連絡線' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119968' action='modify'>
+    <nd ref='-146302' />
+    <nd ref='-146311' />
+    <nd ref='-146315' />
+    <nd ref='-146316' />
+    <nd ref='-146317' />
+    <nd ref='-146318' />
+    <nd ref='-146320' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地鉄道上り→鉄街本線上り連絡線' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-119986' action='modify'>
+    <nd ref='-146712' />
+    <nd ref='-146320' />
+    <nd ref='-146425' />
+    <nd ref='-146326' />
+    <nd ref='-146328' />
+    <nd ref='-146327' />
+    <nd ref='-146329' />
+    <nd ref='-146330' />
+    <nd ref='-146331' />
+    <nd ref='-146334' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='鉄街本線上り緩行線' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120010' action='modify'>
+    <nd ref='-146334' />
+    <nd ref='-146343' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地4番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120035' action='modify'>
+    <nd ref='-146343' />
+    <nd ref='-146359' />
+    <nd ref='-146362' />
+    <nd ref='-146363' />
+    <nd ref='-146364' />
+    <nd ref='-146365' />
+    <nd ref='-146366' />
+    <nd ref='-146451' />
+    <nd ref='-146462' />
+    <nd ref='-146367' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地4番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120060' action='modify'>
+    <nd ref='-146367' />
+    <nd ref='-146377' />
+    <tag k='cutting' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='-1' />
+    <tag k='name' v='郊外団地4番乗り場→郊外団地1番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120123' action='modify'>
+    <nd ref='-146425' />
+    <nd ref='-146433' />
+    <nd ref='-146434' />
+    <nd ref='-146435' />
+    <nd ref='-146436' />
+    <nd ref='-146437' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='鉄街本線上り緩行線→急行線' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120167' action='modify'>
+    <nd ref='-146695' />
+    <nd ref='-146437' />
+    <nd ref='-146447' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='鉄街本線上り急行線' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120173' action='modify'>
+    <nd ref='-146447' />
+    <nd ref='-146446' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='郊外団地3番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120183' action='modify'>
+    <nd ref='-146446' />
+    <nd ref='-146495' />
+    <nd ref='-146457' />
+    <nd ref='-146442' />
+    <nd ref='-146778' />
+    <nd ref='-146781' />
+    <nd ref='-146782' />
+    <nd ref='-146784' />
+    <nd ref='-146785' />
+    <nd ref='-146795' />
+    <nd ref='-146798' />
+    <nd ref='-146799' />
+    <nd ref='-146802' />
+    <nd ref='-146804' />
+    <nd ref='-146921' />
+    <nd ref='-146924' />
+    <nd ref='-146925' />
+    <nd ref='-146926' />
+    <nd ref='-146927' />
+    <nd ref='-146940' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120205' action='modify'>
+    <nd ref='-146451' />
+    <nd ref='-146453' />
+    <nd ref='-146454' />
+    <nd ref='-146455' />
+    <nd ref='-146456' />
+    <nd ref='-146457' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120233' action='modify'>
+    <nd ref='-146462' />
+    <nd ref='-146463' />
+    <nd ref='-146464' />
+    <nd ref='-146493' />
+    <nd ref='-146494' />
+    <nd ref='-146495' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120531' action='modify'>
+    <nd ref='-146940' />
+    <nd ref='-146941' />
+    <tag k='cutting' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120536' action='modify'>
+    <nd ref='-146941' />
+    <nd ref='-146942' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120548' action='modify'>
+    <nd ref='-146942' />
+    <nd ref='-146950' />
+    <tag k='cutting' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120553' action='modify'>
+    <nd ref='-146950' />
+    <nd ref='-146951' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120558' action='modify'>
+    <nd ref='-146951' />
+    <nd ref='-146952' />
+    <tag k='cutting' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120563' action='modify'>
+    <nd ref='-146952' />
+    <nd ref='-146953' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120569' action='modify'>
+    <nd ref='-146953' />
+    <nd ref='-146954' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120581' action='modify'>
+    <nd ref='-146954' />
+    <nd ref='-146962' />
+    <tag k='cutting' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120586' action='modify'>
+    <nd ref='-146962' />
+    <nd ref='-146963' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120606' action='modify'>
+    <nd ref='-146963' />
+    <nd ref='-146978' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120611' action='modify'>
+    <nd ref='-146978' />
+    <nd ref='-146979' />
+    <nd ref='-146980' />
+    <nd ref='-146983' />
+    <nd ref='-146984' />
+    <nd ref='-146985' />
+    <nd ref='-146986' />
+    <nd ref='-146987' />
+    <nd ref='-146989' />
+    <nd ref='-146990' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120628' action='modify'>
+    <nd ref='-146990' />
+    <nd ref='-146992' />
+    <tag k='cutting' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120634' action='modify'>
+    <nd ref='-146992' />
+    <nd ref='-146993' />
+    <nd ref='-146994' />
+    <nd ref='-146995' />
+    <nd ref='-146996' />
+    <nd ref='-146997' />
+    <nd ref='-146998' />
+    <nd ref='-146999' />
+    <nd ref='-147004' />
+    <nd ref='-147005' />
+    <nd ref='-147006' />
+    <nd ref='-147008' />
+    <nd ref='-147009' />
+    <nd ref='-147010' />
+    <nd ref='-147011' />
+    <nd ref='-147016' />
+    <nd ref='-147020' />
+    <nd ref='-147021' />
+    <nd ref='-147022' />
+    <nd ref='-147037' />
+    <nd ref='-147038' />
+    <nd ref='-147039' />
+    <nd ref='-147040' />
+    <nd ref='-147041' />
+    <nd ref='-147044' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地3番乗り場→鉄街本線上り' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120754' action='modify'>
+    <nd ref='-144184' />
+    <nd ref='-147059' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='三条２番乗り場→東大郎駅' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120759' action='modify'>
+    <nd ref='-147060' />
+    <nd ref='-144304' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='東大郎→三条１番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120867' action='modify'>
+    <nd ref='-147162' />
+    <nd ref='-147164' />
+    <nd ref='-147165' />
+    <nd ref='-147166' />
+    <nd ref='-147168' />
+    <nd ref='-147169' />
+    <nd ref='-147190' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='鉄街本線下り→郊外団地鉄道下り連絡線' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120906' action='modify'>
+    <nd ref='-147190' />
+    <nd ref='-147191' />
+    <tag k='bridge' v='yes' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='鉄街本線下り→郊外団地鉄道下り連絡線' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-120934' action='modify'>
+    <nd ref='-147191' />
+    <nd ref='-147201' />
+    <nd ref='-147207' />
+    <nd ref='-147208' />
+    <nd ref='-147209' />
+    <nd ref='-147211' />
+    <nd ref='-147212' />
+    <nd ref='-147213' />
+    <nd ref='-147214' />
+    <nd ref='-147215' />
+    <nd ref='-147216' />
+    <nd ref='-147217' />
+    <nd ref='-147218' />
+    <nd ref='-147219' />
+    <nd ref='-147220' />
+    <nd ref='-147221' />
+    <nd ref='-147222' />
+    <nd ref='-147223' />
+    <nd ref='-147224' />
+    <nd ref='-147225' />
+    <nd ref='-147226' />
+    <nd ref='-147227' />
+    <nd ref='-147228' />
+    <nd ref='-147229' />
+    <nd ref='-147230' />
+    <nd ref='-147231' />
+    <nd ref='-147233' />
+    <nd ref='-147234' />
+    <nd ref='-147235' />
+    <nd ref='-147236' />
+    <nd ref='-147237' />
+    <nd ref='-147238' />
+    <nd ref='-147239' />
+    <nd ref='-147240' />
+    <nd ref='-147241' />
+    <nd ref='-147242' />
+    <nd ref='-147243' />
+    <nd ref='-147244' />
+    <nd ref='-147258' />
+    <nd ref='-147259' />
+    <nd ref='-147260' />
+    <nd ref='-147261' />
+    <nd ref='-147262' />
+    <nd ref='-147263' />
+    <nd ref='-147264' />
+    <nd ref='-147265' />
+    <nd ref='-147266' />
+    <nd ref='-147267' />
+    <nd ref='-147268' />
+    <nd ref='-147271' />
+    <nd ref='-147272' />
+    <nd ref='-147274' />
+    <nd ref='-147276' />
+    <nd ref='-147277' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='鉄街本線下り→郊外団地鉄道下り連絡線' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121012' action='modify'>
+    <nd ref='-147286' />
+    <nd ref='-146229' />
+    <nd ref='-147277' />
+    <nd ref='-147299' />
+    <nd ref='-147538' />
+    <nd ref='-147284' />
+    <nd ref='-147486' />
+    <nd ref='-147487' />
+    <nd ref='-147488' />
+    <nd ref='-147489' />
+    <nd ref='-147490' />
+    <nd ref='-147491' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='鉄街本線下り緩行線' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121054' action='modify'>
+    <nd ref='-147299' />
+    <nd ref='-147301' />
+    <nd ref='-147302' />
+    <nd ref='-147313' />
+    <nd ref='-147314' />
+    <nd ref='-147315' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121071' action='modify'>
+    <nd ref='-147326' />
+    <nd ref='-147533' />
+    <nd ref='-147315' />
+    <nd ref='-147322' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='鉄街本線下り急行線' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121092' action='modify'>
+    <nd ref='-147394' />
+    <nd ref='-147393' />
+    <nd ref='-147392' />
+    <nd ref='-147382' />
+    <nd ref='-147381' />
+    <nd ref='-147379' />
+    <nd ref='-147372' />
+    <nd ref='-147371' />
+    <nd ref='-147369' />
+    <nd ref='-147368' />
+    <nd ref='-147342' />
+    <nd ref='-147555' />
+    <nd ref='-147568' />
+    <nd ref='-147327' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='鉄街本線下り→郊外団地2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121122' action='modify'>
+    <nd ref='-147327' />
+    <nd ref='-147326' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121200' action='modify'>
+    <nd ref='-147442' />
+    <nd ref='-147426' />
+    <nd ref='-147425' />
+    <nd ref='-147423' />
+    <nd ref='-147422' />
+    <nd ref='-147421' />
+    <nd ref='-147420' />
+    <nd ref='-147419' />
+    <nd ref='-147407' />
+    <nd ref='-147405' />
+    <nd ref='-147404' />
+    <nd ref='-147403' />
+    <nd ref='-147402' />
+    <nd ref='-147401' />
+    <nd ref='-147400' />
+    <nd ref='-147394' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='鉄街本線下り→郊外団地2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='tunnel' v='yes' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121267' action='modify'>
+    <nd ref='-147480' />
+    <nd ref='-147479' />
+    <nd ref='-147478' />
+    <nd ref='-147476' />
+    <nd ref='-147473' />
+    <nd ref='-147472' />
+    <nd ref='-147471' />
+    <nd ref='-147470' />
+    <nd ref='-147467' />
+    <nd ref='-147465' />
+    <nd ref='-147464' />
+    <nd ref='-147463' />
+    <nd ref='-147443' />
+    <nd ref='-147442' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='鉄街本線下り→郊外団地2番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121356' action='modify'>
+    <nd ref='-147495' />
+    <nd ref='-147522' />
+    <nd ref='-147524' />
+    <nd ref='-147525' />
+    <nd ref='-147526' />
+    <nd ref='-147527' />
+    <nd ref='-147529' />
+    <nd ref='-147561' />
+    <nd ref='-147573' />
+    <nd ref='-147530' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地4番乗り場→郊外団地1番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121379' action='modify'>
+    <nd ref='-147491' />
+    <nd ref='-147495' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='郊外団地1番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121397' action='modify'>
+    <nd ref='-147533' />
+    <nd ref='-147534' />
+    <nd ref='-147535' />
+    <nd ref='-147536' />
+    <nd ref='-147537' />
+    <nd ref='-147538' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121427' action='modify'>
+    <nd ref='-147561' />
+    <nd ref='-147560' />
+    <nd ref='-147559' />
+    <nd ref='-147558' />
+    <nd ref='-147557' />
+    <nd ref='-147555' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121443' action='modify'>
+    <nd ref='-147568' />
+    <nd ref='-147569' />
+    <nd ref='-147570' />
+    <nd ref='-147571' />
+    <nd ref='-147572' />
+    <nd ref='-147573' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <relation id='-99967' action='modify'>
+    <member type='way' ref='-118434' role='platform' />
+    <member type='node' ref='-144161' role='stop' />
+    <member type='node' ref='-144160' role='stop' />
+    <member type='way' ref='-118433' role='platform' />
+    <member type='way' ref='-118435' role='' />
+    <tag k='name' v='三条団地駅' />
+    <tag k='public_transport' v='stop_area' />
+    <tag k='type' v='public_transport' />
+  </relation>
+  <relation id='-99968' action='modify'>
+    <member type='way' ref='-118436' role='platform' />
+    <member type='node' ref='-144158' role='stop' />
+    <member type='node' ref='-144159' role='stop' />
+    <member type='way' ref='-118437' role='platform' />
+    <member type='way' ref='-118438' role='' />
+    <member type='way' ref='-118459' role='platform' />
+    <member type='node' ref='-144204' role='stop' />
+    <member type='node' ref='-144185' role='stop' />
+    <tag k='name' v='三条マンション駅' />
+    <tag k='operator' v='鉄街鉄道' />
+    <tag k='public_transport' v='stop_area' />
+    <tag k='type' v='public_transport' />
+  </relation>
+  <relation id='-99969' action='modify'>
+    <member type='way' ref='-118434' role='platform' />
+    <member type='node' ref='-144161' role='stop' />
+    <member type='node' ref='-144160' role='stop' />
+    <member type='way' ref='-118433' role='platform' />
+    <member type='way' ref='-118437' role='platform' />
+    <member type='way' ref='-118436' role='platform' />
+    <member type='node' ref='-144159' role='stop' />
+    <member type='node' ref='-144158' role='stop' />
+    <tag k='name' v='鉄街鉄道団地線' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='route' v='train' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='-99970' action='modify'>
+    <member type='node' ref='-144322' role='stop' />
+    <member type='node' ref='-144321' role='stop' />
+    <member type='way' ref='-118480' role='platform' />
+    <member type='node' ref='-144356' role='stop' />
+    <member type='way' ref='-118490' role='platform' />
+    <member type='node' ref='-144357' role='stop' />
+    <member type='way' ref='-118482' role='platform' />
+    <member type='node' ref='-144332' role='stop' />
+    <member type='node' ref='-144331' role='stop' />
+    <member type='way' ref='-118483' role='platform' />
+    <member type='way' ref='-118454' role='platform' />
+    <member type='node' ref='-144230' role='stop' />
+    <member type='way' ref='-118459' role='platform' />
+    <member type='node' ref='-144204' role='stop' />
+    <member type='node' ref='-144185' role='stop' />
+    <tag k='name' v='郊外団地鉄道線' />
+    <tag k='opening_hours' v='24h' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='route' v='train' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='-100005' action='modify'>
+    <member type='node' ref='-144332' role='stop' />
+    <member type='node' ref='-144331' role='stop' />
+    <member type='way' ref='-118483' role='platform' />
+    <member type='way' ref='-118482' role='platform' />
+    <tag k='name' v='郊外団地駅' />
+    <tag k='public_transport' v='stop_area' />
+    <tag k='type' v='public_transport' />
+  </relation>
+  <relation id='-100044' action='modify'>
+    <member type='node' ref='-144322' role='stop' />
+    <member type='way' ref='-118480' role='platform' />
+    <member type='node' ref='-144321' role='stop' />
+    <member type='node' ref='-144356' role='stop' />
+    <member type='way' ref='-118490' role='platform' />
+    <member type='node' ref='-144357' role='stop' />
+    <tag k='name' v='北郊外団地駅' />
+    <tag k='public_transport' v='stop_area' />
+    <tag k='type' v='public_transport' />
+  </relation>
+</osm>
