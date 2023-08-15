@@ -14,3 +14,5 @@ I am not good at git, so i don't deeply understand system.
 If you make request to fix,add, translate,and other, I don't have to recieve this.
 
 [TetusgaiCountry](https://sites.google.com/view/tetsugai-country/%E3%83%9B%E3%83%BC%E3%83%A0) Only Japanse
+
+Save branch is save data on Atrain9V5. you can download these and load your Atrain9V5.
