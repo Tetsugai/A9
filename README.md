@@ -17,4 +17,4 @@ If you make request to fix,add, translate,and other, I don't have to recieve thi
 
 Save branch is save data on Atrain9V5. you can download these and load　on your Atrain9V5.
 
-Part save data use a9codec to acceleration to the lowest.
+Part save data use a9codec to change acceleration to the lowest.
