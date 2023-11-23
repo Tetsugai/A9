@@ -1263,6 +1263,38 @@
   <node id='-148788' action='modify' lat='0.0643' lon='0.02078' />
   <node id='-148793' action='modify' lat='0.06389' lon='0.02037' />
   <node id='-148804' action='modify' lat='0.06236' lon='0.01884' />
+  <node id='-148838' action='modify' lat='0.06212' lon='0.0186' />
+  <node id='-148842' action='modify' lat='0.06217' lon='0.01833' />
+  <node id='-148843' action='modify' lat='0.06222' lon='0.01835' />
+  <node id='-148847' action='modify' lat='0.06228' lon='0.01838' />
+  <node id='-148852' action='modify' lat='0.06232' lon='0.01841' />
+  <node id='-148853' action='modify' lat='0.06237' lon='0.01845' />
+  <node id='-148854' action='modify' lat='0.06241' lon='0.01849' />
+  <node id='-148857' action='modify' lat='0.06315' lon='0.01923' />
+  <node id='-148870' action='modify' lat='0.06468' lon='0.02076' />
+  <node id='-148883' action='modify' lat='0.06496' lon='0.02104' />
+  <node id='-148885' action='modify' lat='0.06501' lon='0.02109' />
+  <node id='-148886' action='modify' lat='0.06504' lon='0.02114' />
+  <node id='-148887' action='modify' lat='0.06507' lon='0.0212' />
+  <node id='-148900' action='modify' lat='0.06511' lon='0.02131' />
+  <node id='-148902' action='modify' lat='0.06514' lon='0.02137' />
+  <node id='-148903' action='modify' lat='0.06518' lon='0.02142' />
+  <node id='-148904' action='modify' lat='0.06522' lon='0.02147' />
+  <node id='-148918' action='modify' lat='0.05349' lon='0.00975' />
+  <node id='-148919' action='modify' lat='0.05354' lon='0.00979' />
+  <node id='-148920' action='modify' lat='0.05357' lon='0.00984' />
+  <node id='-148921' action='modify' lat='0.0536' lon='0.0099' />
+  <node id='-148922' action='modify' lat='0.05367' lon='0.01007' />
+  <node id='-148923' action='modify' lat='0.05371' lon='0.01012' />
+  <node id='-148924' action='modify' lat='0.05375' lon='0.01017' />
+  <node id='-149010' action='modify' lat='0.05383' lon='0.01009' />
+  <node id='-149011' action='modify' lat='0.05379' lon='0.01004' />
+  <node id='-149012' action='modify' lat='0.05374' lon='0.01001' />
+  <node id='-149014' action='modify' lat='0.05368' lon='0.00998' />
+  <node id='-149015' action='modify' lat='0.05356' lon='0.00994' />
+  <node id='-149016' action='modify' lat='0.05351' lon='0.00991' />
+  <node id='-149017' action='modify' lat='0.05346' lon='0.00987' />
+  <node id='-149019' action='modify' lat='0.05341' lon='0.00983' />
   <way id='-121461' action='modify'>
     <nd ref='-147575' />
     <nd ref='-147576' />
@@ -3319,7 +3351,8 @@
     <nd ref='-148172' />
     <nd ref='-148173' />
     <nd ref='-147722' />
-    <tag k='r' v='134' />
+    <tag k='r' v='50' />
+    <tag k='speed' v='25' />
   </way>
   <way id='-121601' action='modify'>
     <nd ref='-147729' />
@@ -3389,7 +3422,8 @@
     <nd ref='-148235' />
     <nd ref='-148236' />
     <nd ref='-147729' />
-    <tag k='r' v='236' />
+    <tag k='r' v='118' />
+    <tag k='speed' v='45' />
   </way>
   <way id='-121602' action='modify'>
     <nd ref='-147923' />
@@ -3503,7 +3537,8 @@
     <nd ref='-148342' />
     <nd ref='-148343' />
     <nd ref='-147721' />
-    <tag k='r' v='203' />
+    <tag k='r' v='94' />
+    <tag k='speed' v='45' />
   </way>
   <way id='-121604' action='modify'>
     <nd ref='-147719' />
@@ -3569,7 +3604,8 @@
     <nd ref='-148408' />
     <nd ref='-148409' />
     <nd ref='-147718' />
-    <tag k='r' v='250' />
+    <tag k='r' v='117' />
+    <tag k='speed' v='45' />
   </way>
   <way id='-121605' action='modify'>
     <nd ref='-147718' />
@@ -4213,6 +4249,8 @@
   </way>
   <way id='-121648' action='modify'>
     <nd ref='-148608' />
+    <nd ref='-148918' />
+    <nd ref='-149010' />
     <nd ref='-147761' />
     <tag k='electrified' v='contact_line' />
     <tag k='gauge' v='1067' />
@@ -4421,6 +4459,7 @@
   </way>
   <way id='-121658' action='modify'>
     <nd ref='-148719' />
+    <nd ref='-148924' />
     <nd ref='-148718' />
     <nd ref='-148717' />
     <nd ref='-148716' />
@@ -4433,6 +4472,7 @@
     <nd ref='-148709' />
     <nd ref='-148708' />
     <nd ref='-148707' />
+    <nd ref='-148904' />
     <nd ref='-148706' />
     <tag k='electrified' v='contact_line' />
     <tag k='gauge' v='1067' />
@@ -4559,6 +4599,94 @@
     <tag k='layer' v='0' />
     <tag k='name' v='本三条１番乗り場' />
     <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121863' action='modify'>
+    <nd ref='-148804' />
+    <nd ref='-148838' />
+    <nd ref='-148598' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='name' v='本三条１番乗り場→東大郎' />
+    <tag k='railway' v='rail' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121872' action='modify'>
+    <nd ref='-148712' />
+    <nd ref='-148842' />
+    <nd ref='-148843' />
+    <nd ref='-148847' />
+    <nd ref='-148852' />
+    <nd ref='-148853' />
+    <nd ref='-148854' />
+    <nd ref='-148857' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='東大郎→本三条4番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='siding' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121919' action='modify'>
+    <nd ref='-148857' />
+    <nd ref='-148870' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='本三条4番乗り場' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='siding' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121935' action='modify'>
+    <nd ref='-148870' />
+    <nd ref='-148883' />
+    <nd ref='-148885' />
+    <nd ref='-148886' />
+    <nd ref='-148887' />
+    <nd ref='-148900' />
+    <nd ref='-148902' />
+    <nd ref='-148903' />
+    <nd ref='-148904' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='name' v='本三条4番乗り場→郊外団地' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='siding' />
+    <tag k='usage' v='main' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-121983' action='modify'>
+    <nd ref='-148918' />
+    <nd ref='-148919' />
+    <nd ref='-148920' />
+    <nd ref='-148921' />
+    <nd ref='-148922' />
+    <nd ref='-148923' />
+    <nd ref='-148924' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
+    <tag k='voltage' v='1500' />
+  </way>
+  <way id='-122005' action='modify'>
+    <nd ref='-149010' />
+    <nd ref='-149011' />
+    <nd ref='-149012' />
+    <nd ref='-149014' />
+    <nd ref='-149015' />
+    <nd ref='-149016' />
+    <nd ref='-149017' />
+    <nd ref='-149019' />
+    <tag k='electrified' v='contact_line' />
+    <tag k='gauge' v='1067' />
+    <tag k='layer' v='0' />
+    <tag k='railway' v='rail' />
+    <tag k='service' v='crossover' />
     <tag k='voltage' v='1500' />
   </way>
   <relation id='-100051' action='modify'>
